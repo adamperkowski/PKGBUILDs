@@ -1,6 +1,11 @@
 {
   "version": 2,
   "data": {
+    "amdgpud": {
+      "version": "1.0.12",
+      "gitref": "refs/tags/v1.0.12",
+      "url": "https://github.com/Eraden/amdgpud/releases/tag/v1.0.12"
+    },
     "hyprgui": {
       "version": "0.1.8",
       "gitref": "refs/tags/v0.1.8",

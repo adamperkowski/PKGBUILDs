@@ -38,3 +38,9 @@ source = "github"
 github = "aspasht/smriti"
 use_latest_release = true
 prefix = "v"
+
+[amdgpud]
+source = "github"
+github = "eraden/amdgpud"
+use_latest_release = true
+prefix = "v"
