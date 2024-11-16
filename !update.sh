@@ -9,9 +9,10 @@ fi
 for dir in $changed_dirs; do
     echo "commit message for $dir:"
     read -r msg
+    nvtake -c nvchecker.toml "$dir"
     git add "$dir" ./*.json
     git commit -m "$dir: $msg"
-    git subtree push --prefix="$dir" "$dir" master && nvtake -c nvchecker.toml "$dir"
+    git subtree push --prefix="$dir" "$dir" master
 done
 
 git push origin main
