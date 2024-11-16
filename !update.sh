@@ -11,7 +11,7 @@ for dir in $changed_dirs; do
     read -r msg
     git add "$dir"
     git commit -m "$dir: $msg"
-    git subtree push --prefix="$dir" "$dir" master
+    git subtree push --prefix="$dir" "$dir" master && nvtake -c nvchecker.toml "$dir"
 done
 
 git push origin main

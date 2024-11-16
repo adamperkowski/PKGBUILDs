@@ -1,0 +1,40 @@
+[__config__]
+oldver = "n_current.json"
+newver = "n_new.json"
+keyfile = "keyfile.toml"
+
+[hyprgui]
+source = "github"
+github = "hyprutils/hyprgui"
+use_latest_release = true
+prefix = "v"
+
+[hyprlauncher]
+source = "github"
+github = "hyprutils/hyprlauncher"
+use_latest_release = true
+prefix = "v"
+
+[hyprwall]
+source = "github"
+github = "hyprutils/hyprwall"
+use_latest_release = true
+prefix = "v"
+
+[linutil]
+source = "github"
+github = "christitustech/linutil"
+use_latest_release = true
+prefix = "v"
+
+[permitter]
+source = "github"
+github = "adamperkowski/permitter"
+use_latest_release = true
+prefix = "v"
+
+[smriti]
+source = "github"
+github = "aspasht/smriti"
+use_latest_release = true
+prefix = "v"
