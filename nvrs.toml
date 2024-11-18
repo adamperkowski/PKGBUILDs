@@ -40,3 +40,8 @@ prefix = "v"
 source = "github"
 github = "eraden/amdgpud"
 prefix = "v"
+
+[quarantine]
+source = "github"
+github = "zahash/quarantine"
+prefix = "v"
