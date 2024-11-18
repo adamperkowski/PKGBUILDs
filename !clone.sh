@@ -8,8 +8,7 @@ for arg in "$@"; do
     printf "\n%b" "[$arg]
 source = \"github\"
 github = \"\"
-use_latest_release = true
 prefix = \"v\"
-" | tee -a nvchecker.toml > /dev/null 2>&1
+" | tee -a nvrs.toml > /dev/null 2>&1
 done
 

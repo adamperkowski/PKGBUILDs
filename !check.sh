@@ -1,7 +1,7 @@
 #! /bin/sh
 
-nvchecker -c nvchecker.toml
-cmp=$(nvcmp -c nvchecker.toml)
+nvrs --no-fail
+cmp=$(nvrs --cmp)
 
 if [ -z "$cmp" ]; then
     echo "up to date"
@@ -9,11 +9,9 @@ if [ -z "$cmp" ]; then
 fi
 
 echo "$cmp" | while IFS= read -r line; do
-    pkg=$(echo "$line" | cut -d' ' -f1)
-    # oldver=$(echo "$line" | cut -d' ' -f2)
-    # newver=$(echo "$line" | cut -d' ' -f4)
+    pkg=$(echo "$line" | cut -d' ' -f2)
+    repo=$(grep -i -A 5 "\[$pkg\]" "nvrs.toml" | grep 'github =' | cut -d \" -f2)
 
-    repo=$(grep -i -A 5 "\[$pkg\]" "nvchecker.toml" | grep 'github =' | cut -d \" -f2)
     if [ -n "$repo" ]; then
       gh release view -R "$repo"
       handlr open "https://github.com/$repo/releases"
