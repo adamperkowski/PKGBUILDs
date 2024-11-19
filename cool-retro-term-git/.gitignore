@@ -1,4 +1,3 @@
-*~
-*/
-*.tar.*
-*.log
+pkg
+src
+cool-retro-term*
