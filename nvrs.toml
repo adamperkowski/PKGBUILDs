@@ -1,0 +1,47 @@
+# nvrs
+# https://github.com/adamperkowski/nvrs
+
+[__config__]
+oldver = "n_old.json"
+newver = "n_new.json"
+keyfile = "keyfile.toml"
+
+[hyprgui]
+source = "github"
+github = "hyprutils/hyprgui"
+prefix = "v"
+
+[hyprlauncher]
+source = "github"
+github = "hyprutils/hyprlauncher"
+prefix = "v"
+
+[hyprwall]
+source = "github"
+github = "hyprutils/hyprwall"
+prefix = "v"
+
+[linutil]
+source = "github"
+github = "christitustech/linutil"
+prefix = "v"
+
+[permitter]
+source = "github"
+github = "adamperkowski/permitter"
+prefix = "v"
+
+[smriti]
+source = "github"
+github = "aspasht/smriti"
+prefix = "v"
+
+[amdgpud]
+source = "github"
+github = "eraden/amdgpud"
+prefix = "v"
+
+[quarantine]
+source = "github"
+github = "zahash/quarantine"
+prefix = "v"
