@@ -1,4 +1,3 @@
-*~
-*/
-*.tar.*
-*.log
+pkg
+src
+qmltermwidget*
