@@ -45,3 +45,8 @@ prefix = "v"
 source = "github"
 github = "zahash/quarantine"
 prefix = "v"
+
+#[tukai]
+#source = "github"
+#github = "hlsxx/tukai"
+#prefix = "v"
