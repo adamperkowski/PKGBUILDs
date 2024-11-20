@@ -15,4 +15,4 @@ for dir in $changed_dirs; do
     git subtree push --prefix="$dir" "$dir" master
 done
 
-git push origin main
+git push origin "$(git rev-parse --abbrev-ref HEAD)"
