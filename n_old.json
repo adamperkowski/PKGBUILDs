@@ -26,6 +26,11 @@
       "gitref": "refs/tags/2024.10.31",
       "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2024.10.31"
     },
+    "nvrs": {
+      "version": "0.1.4",
+      "gitref": "refs/tags/v0.1.4",
+      "url": "https://github.com/adamperkowski/nvrs/releases/tag/v0.1.4"
+    },
     "permitter": {
       "version": "3.0.0",
       "gitref": "refs/tags/v3.0.0",

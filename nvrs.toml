@@ -55,3 +55,8 @@ prefix = "v"
 source = "github"
 github = "Siriusmart/youtube-tui"
 prefix = "v"
+
+[nvrs]
+source = "github"
+github = "adamperkowski/nvrs"
+prefix = "v"
