@@ -60,3 +60,8 @@ prefix = "v"
 source = "github"
 github = "adamperkowski/nvrs"
 prefix = "v"
+
+[rawbit]
+source = "github"
+github = "cartercanedy/rawbit"
+prefix = "v"
