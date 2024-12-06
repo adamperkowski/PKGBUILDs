@@ -12,9 +12,9 @@
       "url": "https://github.com/hyprutils/hyprgui/releases/tag/v0.2.0"
     },
     "hyprlauncher": {
-      "version": "0.2.6",
-      "gitref": "refs/tags/v0.2.6",
-      "url": "https://github.com/hyprutils/hyprlauncher/releases/tag/v0.2.6"
+      "version": "0.2.7",
+      "gitref": "refs/tags/v0.2.7",
+      "url": "https://github.com/hyprutils/hyprlauncher/releases/tag/v0.2.7"
     },
     "hyprwall": {
       "version": "0.1.9",

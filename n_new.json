@@ -12,9 +12,9 @@
       "url": "https://github.com/hyprutils/hyprgui/releases/tag/v0.2.0"
     },
     "hyprlauncher": {
-      "version": "0.2.6",
-      "gitref": "refs/tags/v0.2.6",
-      "url": "https://github.com/hyprutils/hyprlauncher/releases/tag/v0.2.6"
+      "version": "0.2.7",
+      "gitref": "refs/tags/v0.2.7",
+      "url": "https://github.com/hyprutils/hyprlauncher/releases/tag/v0.2.7"
     },
     "hyprwall": {
       "version": "0.1.9",
@@ -47,9 +47,9 @@
       "url": "https://github.com/zahash/quarantine/releases/tag/v0.1.3"
     },
     "rawbit": {
-      "version": "0.1.4",
-      "gitref": "refs/tags/v0.1.4",
-      "url": "https://github.com/cartercanedy/rawbit/releases/tag/v0.1.4"
+      "version": "0.1.5",
+      "gitref": "refs/tags/v0.1.5",
+      "url": "https://github.com/cartercanedy/rawbit/releases/tag/v0.1.5"
     },
     "smriti": {
       "version": "1.0.0",
