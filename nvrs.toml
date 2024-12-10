@@ -70,3 +70,7 @@ prefix = "v"
 source = "github"
 github = "hypeedev/protondb-cli"
 prefix = "v"
+
+[transgender]
+source = "github"
+github = "Sberm/Transgender.rs"

@@ -56,6 +56,11 @@
       "gitref": "refs/tags/v1.0.0",
       "url": "https://github.com/Aspasht/Smriti/releases/tag/v1.0.0"
     },
+    "transgender": {
+      "version": "1.3.2",
+      "gitref": "refs/tags/1.3.2",
+      "url": "https://github.com/Sberm/Transgender.rs/releases/tag/1.3.2"
+    },
     "tukai": {
       "version": "0.1.1",
       "gitref": "refs/tags/v0.1.1",
