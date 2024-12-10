@@ -74,3 +74,9 @@ prefix = "v"
 [transgender]
 source = "github"
 github = "Sberm/Transgender.rs"
+
+[ntfy]
+source = "github"
+github = "dschep/ntfy"
+prefix = "v"
+use_max_tag = true

@@ -26,6 +26,11 @@
       "gitref": "refs/tags/2024.10.31",
       "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2024.10.31"
     },
+    "ntfy": {
+      "version": "2.7.0",
+      "gitref": "refs/tags/v2.7.0",
+      "url": "https://github.com/dschep/ntfy/releases/tag/v2.7.0"
+    },
     "nvrs": {
       "version": "0.1.5",
       "gitref": "refs/tags/v0.1.5",
