@@ -80,3 +80,8 @@ source = "github"
 github = "dschep/ntfy"
 prefix = "v"
 use_max_tag = true
+
+[jqp]
+source = "github"
+github = "noahgorstein/jqp"
+prefix = "v"

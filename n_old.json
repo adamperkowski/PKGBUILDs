@@ -21,6 +21,11 @@
       "gitref": "refs/tags/v0.1.9",
       "url": "https://github.com/hyprutils/hyprwall/releases/tag/v0.1.9"
     },
+    "jqp": {
+      "version": "0.7.0",
+      "gitref": "refs/tags/v0.7.0",
+      "url": "https://github.com/noahgorstein/jqp/releases/tag/v0.7.0"
+    },
     "linutil": {
       "version": "2024.10.31",
       "gitref": "refs/tags/2024.10.31",
