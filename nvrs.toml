@@ -85,3 +85,8 @@ use_max_tag = true
 source = "github"
 github = "noahgorstein/jqp"
 prefix = "v"
+
+[codesnap]
+source = "github"
+github = "mistricky/CodeSnap"
+prefix = "v"

@@ -6,6 +6,11 @@
       "gitref": "refs/tags/v1.0.12",
       "url": "https://github.com/Eraden/amdgpud/releases/tag/v1.0.12"
     },
+    "codesnap": {
+      "version": "0.8.2",
+      "gitref": "refs/tags/v0.8.2",
+      "url": "https://github.com/mistricky/CodeSnap/releases/tag/v0.8.2"
+    },
     "hyprgui": {
       "version": "0.2.0",
       "gitref": "refs/tags/v0.2.0",
