@@ -90,3 +90,8 @@ prefix = "v"
 source = "github"
 github = "mistricky/CodeSnap"
 prefix = "v"
+
+[arv]
+source = "github"
+github = "tranzystorekk/arrive"
+prefix = "v"

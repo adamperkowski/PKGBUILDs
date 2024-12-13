@@ -6,6 +6,11 @@
       "gitref": "refs/tags/v1.0.12",
       "url": "https://github.com/Eraden/amdgpud/releases/tag/v1.0.12"
     },
+    "arv": {
+      "version": "0.3.1",
+      "gitref": "refs/tags/v0.3.1",
+      "url": "https://github.com/tranzystorekk/arrive/releases/tag/v0.3.1"
+    },
     "codesnap": {
       "version": "0.8.2",
       "gitref": "refs/tags/v0.8.2",
