@@ -2,8 +2,8 @@
 # https://github.com/adamperkowski/nvrs
 
 [__config__]
-oldver = "n_old.json"
-newver = "n_new.json"
+oldver = "vold.json"
+newver = "vnew.json"
 keyfile = "keyfile.toml"
 
 [hyprgui]
