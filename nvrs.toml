@@ -95,3 +95,8 @@ prefix = "v"
 source = "github"
 github = "tranzystorekk/arrive"
 prefix = "v"
+
+[hyprpolkitagent]
+source = "github"
+github = "hyprwm/hyprpolkitagent"
+prefix = "v"
