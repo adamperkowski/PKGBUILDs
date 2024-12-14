@@ -116,3 +116,8 @@ use_max_tag = true
 source = "github"
 github = "github/gh-skyline"
 prefix = "v"
+
+[jellyfin-tui]
+source = "github"
+github = "dhonus/jellyfin-tui"
+prefix = "v"
