@@ -111,3 +111,8 @@ source = "github"
 github = "renpenguin/display3d"
 prefix = "v"
 use_max_tag = true
+
+[gh-skyline]
+source = "github"
+github = "github/gh-skyline"
+prefix = "v"

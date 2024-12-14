@@ -26,6 +26,11 @@
       "gitref": "refs/tags/v2.10",
       "url": "https://github.com/TowarzyszFatCat/doccli/releases/tag/v2.10"
     },
+    "gh-skyline": {
+      "version": "0.0.4",
+      "gitref": "refs/tags/v0.0.4",
+      "url": "https://github.com/github/gh-skyline/releases/tag/v0.0.4"
+    },
     "hyprgui": {
       "version": "0.2.0",
       "gitref": "refs/tags/v0.2.0",
