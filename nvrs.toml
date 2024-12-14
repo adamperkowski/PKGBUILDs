@@ -105,3 +105,9 @@ prefix = "v"
 source = "github"
 github = "c2i-junia/rustcraft"
 prefix = "v"
+
+[display3d]
+source = "github"
+github = "renpenguin/display3d"
+prefix = "v"
+use_max_tag = true

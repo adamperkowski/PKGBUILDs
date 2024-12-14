@@ -16,6 +16,11 @@
       "gitref": "refs/tags/v0.8.2",
       "url": "https://github.com/mistricky/CodeSnap/releases/tag/v0.8.2"
     },
+    "display3d": {
+      "version": "0.1.17",
+      "gitref": "refs/tags/v0.1.17",
+      "url": "https://github.com/renpenguin/display3d/releases/tag/v0.1.17"
+    },
     "doccli": {
       "version": "2.10",
       "gitref": "refs/tags/v2.10",
