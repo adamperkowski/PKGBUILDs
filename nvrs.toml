@@ -105,3 +105,8 @@ prefix = "v"
 source = "github"
 github = "TowarzyszFatCat/doccli"
 prefix = "v"
+
+[rustcraft]
+source = "github"
+github = "c2i-junia/rustcraft"
+prefix = "v"

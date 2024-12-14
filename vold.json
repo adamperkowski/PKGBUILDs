@@ -81,6 +81,11 @@
       "gitref": "refs/tags/v0.1.6",
       "url": "https://github.com/cartercanedy/rawbit/releases/tag/v0.1.6"
     },
+    "rustcraft": {
+      "version": "0.8",
+      "gitref": "refs/tags/v0.8",
+      "url": "https://github.com/c2i-junia/rustcraft/releases/tag/v0.8"
+    },
     "smriti": {
       "version": "1.0.0",
       "gitref": "refs/tags/v1.0.0",
