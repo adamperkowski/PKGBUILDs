@@ -100,3 +100,8 @@ prefix = "v"
 source = "github"
 github = "hyprwm/hyprpolkitagent"
 prefix = "v"
+
+[doccli]
+source = "github"
+github = "TowarzyszFatCat/doccli"
+prefix = "v"

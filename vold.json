@@ -16,6 +16,11 @@
       "gitref": "refs/tags/v0.8.2",
       "url": "https://github.com/mistricky/CodeSnap/releases/tag/v0.8.2"
     },
+    "doccli": {
+      "version": "2.10",
+      "gitref": "refs/tags/v2.10",
+      "url": "https://github.com/TowarzyszFatCat/doccli/releases/tag/v2.10"
+    },
     "hyprgui": {
       "version": "0.2.0",
       "gitref": "refs/tags/v0.2.0",
