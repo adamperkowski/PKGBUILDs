@@ -52,9 +52,9 @@
       "url": "https://github.com/hyprutils/hyprwall/releases/tag/v0.1.9"
     },
     "jellyfin-tui": {
-      "version": "1.0.2",
-      "gitref": "refs/tags/v1.0.2",
-      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.2"
+      "version": "1.0.3",
+      "gitref": "refs/tags/v1.0.3",
+      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.3"
     },
     "jqp": {
       "version": "0.7.0",
