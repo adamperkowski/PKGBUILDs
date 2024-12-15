@@ -121,3 +121,8 @@ prefix = "v"
 source = "github"
 github = "dhonus/jellyfin-tui"
 prefix = "v"
+
+[julec]
+source = "github"
+github = "julelang/jule"
+prefix = "jule"

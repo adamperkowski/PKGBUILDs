@@ -61,6 +61,11 @@
       "gitref": "refs/tags/v0.7.0",
       "url": "https://github.com/noahgorstein/jqp/releases/tag/v0.7.0"
     },
+    "julec": {
+      "version": "0.1.1",
+      "gitref": "refs/tags/jule0.1.1",
+      "url": "https://github.com/julelang/jule/releases/tag/jule0.1.1"
+    },
     "linutil": {
       "version": "2024.10.31",
       "gitref": "refs/tags/2024.10.31",
