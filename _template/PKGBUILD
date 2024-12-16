@@ -1,0 +1,39 @@
+# Maintainer: Adam Perkowski <adas1per@protonmail.com>
+# https://github.com/adamperkowski/PKGBUILDs
+
+_pkgname=
+pkgname=
+pkgver=
+pkgrel=1
+pkgdesc=''
+arch=('x86_64')
+url=""
+url_raw="https://raw.githubusercontent.com/$(echo "$url" | awk -F'/' '{print $4 "/" $5}')"
+license=('')
+source=("")
+sha256sums=('')
+makedepends=('')
+depends=('')
+optdepends=('')
+provides=('')
+conflicts=('')
+install=("")
+options=('')
+
+prepare() {
+
+}
+
+build() {
+
+}
+
+check() {
+
+}
+
+package() {
+
+}
+
+# vim: ts=2 sw=2 et:
