@@ -7,6 +7,16 @@ if [ -z "$changed_dirs" ]; then
 fi
 
 for dir in $changed_dirs; do
+    nam="$(namcap "$dir/PKGBUILD")"
+    if [ -n "$nam" ]; then
+        echo "$nam"
+        read -r dummy < /dev/tty
+    fi
+
+    cd "$dir"
+    makepkg --printsrcinfo > .SRCINFO
+    cd ..
+
     echo "commit message for $dir:"
     read -r msg < /dev/tty
     nvrs --take "$dir"
