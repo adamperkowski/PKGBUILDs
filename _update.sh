@@ -8,7 +8,7 @@ fi
 
 for dir in $changed_dirs; do
     echo "commit message for $dir:"
-    read -r msg
+    read -r msg < /dev/tty
     nvrs --take "$dir"
     git add "$dir" ./*.json
     git commit -m "$dir: $msg"
