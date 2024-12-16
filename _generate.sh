@@ -12,7 +12,9 @@ while [ "$ready" != 'done' ]; do
     read -r ready
 done
 
-#git push -u "$1" master
+git add .
+git commit -m "$1: init"
+git push -u "$1" master
 cd ..
 rm -rf "$1"
 . ./_clone.sh "$1"
