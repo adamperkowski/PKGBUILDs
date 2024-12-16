@@ -97,9 +97,9 @@
       "url": "https://github.com/zahash/quarantine/releases/tag/v0.1.3"
     },
     "rawbit": {
-      "version": "0.1.7",
-      "gitref": "refs/tags/v0.1.7",
-      "url": "https://github.com/cartercanedy/rawbit/releases/tag/v0.1.7"
+      "version": "0.1.11",
+      "gitref": "refs/tags/v0.1.11",
+      "url": "https://github.com/cartercanedy/rawbit/releases/tag/v0.1.11"
     },
     "rustcraft": {
       "version": "0.8",
