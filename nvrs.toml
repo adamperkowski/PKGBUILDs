@@ -126,3 +126,8 @@ prefix = "v"
 source = "github"
 github = "julelang/jule"
 prefix = "jule"
+
+[envfetch]
+source = "github"
+github = "ankddev/envfetch"
+prefix = "v"

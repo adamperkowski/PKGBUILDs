@@ -26,6 +26,11 @@
       "gitref": "refs/tags/v2.10",
       "url": "https://github.com/TowarzyszFatCat/doccli/releases/tag/v2.10"
     },
+    "envfetch": {
+      "version": "1.1.0",
+      "gitref": "refs/tags/v1.1.0",
+      "url": "https://github.com/ankddev/envfetch/releases/tag/v1.1.0"
+    },
     "gh-skyline": {
       "version": "0.0.4",
       "gitref": "refs/tags/v0.0.4",
