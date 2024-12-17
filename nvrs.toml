@@ -131,3 +131,8 @@ prefix = "jule"
 source = "github"
 github = "ankddev/envfetch"
 prefix = "v"
+
+[grind-rs]
+source = "github"
+github = "nnyyxxxx/grind-rs"
+prefix = "v"
