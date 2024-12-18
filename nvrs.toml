@@ -136,3 +136,7 @@ prefix = "v"
 source = "github"
 github = "nnyyxxxx/grind-rs"
 prefix = "v"
+
+[ad]
+source = "github"
+github = "sminez/ad"

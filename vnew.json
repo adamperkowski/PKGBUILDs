@@ -1,6 +1,11 @@
 {
   "version": 2,
   "data": {
+    "ad": {
+      "version": "0.2.0",
+      "gitref": "refs/tags/0.2.0",
+      "url": "https://github.com/sminez/ad/releases/tag/0.2.0"
+    },
     "amdgpud": {
       "version": "1.0.12",
       "gitref": "refs/tags/v1.0.12",
