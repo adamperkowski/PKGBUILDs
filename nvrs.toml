@@ -140,3 +140,8 @@ prefix = "v"
 [ad]
 source = "github"
 github = "sminez/ad"
+
+[tuistash]
+source = "github"
+github = "edmocosta/tuistash"
+prefix = "v"
