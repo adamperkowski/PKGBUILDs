@@ -17,8 +17,13 @@ for dir in $changed_dirs; do
     makepkg --printsrcinfo > .SRCINFO
     cd ..
 
-    echo "commit message for $dir:"
-    read -r msg < /dev/tty
+    if [ -n "$1" ]; then
+        msg="$1"
+    else
+        echo "commit message for $dir:"
+        read -r msg < /dev/tty
+    fi
+
     nvrs --take "$dir"
     git add "$dir" ./*.json
     git commit -m "$dir: $msg"
