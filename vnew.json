@@ -96,6 +96,11 @@
       "gitref": "refs/tags/v0.1.5",
       "url": "https://github.com/adamperkowski/nvrs/releases/tag/v0.1.5"
     },
+    "omu": {
+      "version": "0.1.5",
+      "gitref": "refs/tags/v0.1.5",
+      "url": "https://github.com/utox39/oh-my-update/releases/tag/v0.1.5"
+    },
     "permitter": {
       "version": "3.0.0",
       "gitref": "refs/tags/v3.0.0",

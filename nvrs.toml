@@ -145,3 +145,8 @@ github = "sminez/ad"
 source = "github"
 github = "edmocosta/tuistash"
 prefix = "v"
+
+[omu]
+source = "github"
+github = "utox39/oh-my-update"
+prefix = "v"
