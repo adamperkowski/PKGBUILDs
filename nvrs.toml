@@ -150,3 +150,8 @@ prefix = "v"
 source = "github"
 github = "utox39/oh-my-update"
 prefix = "v"
+
+[mult]
+source = "github"
+github = "dhth/mult"
+prefix = "v"
