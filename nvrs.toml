@@ -161,3 +161,8 @@ source = "github"
 github = "freref/fancy-cat"
 prefix = "v"
 use_max_tag = true
+
+[comlink]
+source = "github"
+github = "rockorager/comlink"
+prefix = "v"

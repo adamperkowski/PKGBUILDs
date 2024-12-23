@@ -21,6 +21,11 @@
       "gitref": "refs/tags/v0.8.3",
       "url": "https://github.com/mistricky/CodeSnap/releases/tag/v0.8.3"
     },
+    "comlink": {
+      "version": "0.1.1",
+      "gitref": "refs/tags/v0.1.1",
+      "url": "https://github.com/rockorager/comlink/releases/tag/v0.1.1"
+    },
     "display3d": {
       "version": "0.1.17",
       "gitref": "refs/tags/v0.1.17",
