@@ -155,3 +155,9 @@ prefix = "v"
 source = "github"
 github = "dhth/mult"
 prefix = "v"
+
+[fancy-cat]
+source = "github"
+github = "freref/fancy-cat"
+prefix = "v"
+use_max_tag = true
