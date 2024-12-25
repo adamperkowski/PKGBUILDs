@@ -146,6 +146,11 @@
       "gitref": "refs/tags/v1.0.0",
       "url": "https://github.com/Aspasht/Smriti/releases/tag/v1.0.0"
     },
+    "tek": {
+      "version": "0.2.0-rc.6",
+      "gitref": "refs/tags/0.2.0-rc.6",
+      "url": "https://codeberg.org/api/v1/repos/unspeaker/tek/releases/2709523"
+    },
     "transgender": {
       "version": "1.3.3",
       "gitref": "refs/tags/1.3.3",

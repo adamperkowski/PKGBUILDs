@@ -166,3 +166,7 @@ use_max_tag = true
 source = "github"
 github = "rockorager/comlink"
 prefix = "v"
+
+[tek]
+source = "codeberg"
+codeberg = "unspeaker/tek"
