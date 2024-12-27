@@ -56,25 +56,10 @@
       "gitref": "refs/tags/v0.1.0",
       "url": "https://github.com/nnyyxxxx/grind-rs/releases/tag/v0.1.0"
     },
-    "hyprgui": {
-      "version": "0.2.0",
-      "gitref": "refs/tags/v0.2.0",
-      "url": "https://github.com/hyprutils/hyprgui/releases/tag/v0.2.0"
-    },
-    "hyprlauncher": {
-      "version": "0.2.8",
-      "gitref": "refs/tags/v0.2.8",
-      "url": "https://github.com/hyprutils/hyprlauncher/releases/tag/v0.2.8"
-    },
     "hyprpolkitagent": {
       "version": "0.1.1",
       "gitref": "refs/tags/v0.1.1",
       "url": "https://github.com/hyprwm/hyprpolkitagent/releases/tag/v0.1.1"
-    },
-    "hyprwall": {
-      "version": "0.1.9",
-      "gitref": "refs/tags/v0.1.9",
-      "url": "https://github.com/hyprutils/hyprwall/releases/tag/v0.1.9"
     },
     "jellyfin-tui": {
       "version": "1.0.3",

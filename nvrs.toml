@@ -6,21 +6,6 @@ oldver = "vold.json"
 newver = "vnew.json"
 keyfile = "keyfile.toml"
 
-[hyprgui]
-source = "github"
-github = "hyprutils/hyprgui"
-prefix = "v"
-
-[hyprlauncher]
-source = "github"
-github = "hyprutils/hyprlauncher"
-prefix = "v"
-
-[hyprwall]
-source = "github"
-github = "hyprutils/hyprwall"
-prefix = "v"
-
 [linutil]
 source = "github"
 github = "christitustech/linutil"
