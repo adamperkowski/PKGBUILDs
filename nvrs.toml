@@ -162,3 +162,8 @@ source = "github"
 github = "hachiya-kurisu/gengou"
 prefix = "v"
 use_max_tag = true
+
+[kri]
+source = "github"
+github = "ikozyris/kri"
+prefix = "v"
