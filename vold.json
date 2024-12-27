@@ -46,6 +46,11 @@
       "gitref": "refs/tags/v0.1.0",
       "url": "https://github.com/freref/fancy-cat/releases/tag/v0.1.0"
     },
+    "gengou": {
+      "version": "0.0.8",
+      "gitref": "refs/tags/v0.0.8",
+      "url": "https://github.com/hachiya-kurisu/gengou/releases/tag/v0.0.8"
+    },
     "gh-skyline": {
       "version": "0.0.4",
       "gitref": "refs/tags/v0.0.4",

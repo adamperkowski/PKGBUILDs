@@ -156,3 +156,9 @@ source = "github"
 github = "hachiya-kurisu/sisyphus"
 prefix = "v"
 use_max_tag = true
+
+[gengou]
+source = "github"
+github = "hachiya-kurisu/gengou"
+prefix = "v"
+use_max_tag = true
