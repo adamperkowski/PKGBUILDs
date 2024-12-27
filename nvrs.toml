@@ -150,3 +150,9 @@ prefix = "v"
 [tek]
 source = "codeberg"
 codeberg = "unspeaker/tek"
+
+[sisyphus]
+source = "github"
+github = "hachiya-kurisu/sisyphus"
+prefix = "v"
+use_max_tag = true

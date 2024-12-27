@@ -121,6 +121,11 @@
       "gitref": "refs/tags/v0.8",
       "url": "https://github.com/c2i-junia/rustcraft/releases/tag/v0.8"
     },
+    "sisyphus": {
+      "version": "0.3.5",
+      "gitref": "refs/tags/v0.3.5",
+      "url": "https://github.com/hachiya-kurisu/sisyphus/releases/tag/v0.3.5"
+    },
     "smriti": {
       "version": "1.0.0",
       "gitref": "refs/tags/v1.0.0",
