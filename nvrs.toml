@@ -167,3 +167,8 @@ use_max_tag = true
 source = "github"
 github = "ikozyris/kri"
 prefix = "v"
+
+[lnx]
+source = "github"
+github = "lnx-search/lnx"
+prefix = "v"
