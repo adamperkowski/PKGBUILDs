@@ -172,3 +172,8 @@ prefix = "v"
 source = "github"
 github = "lnx-search/lnx"
 prefix = "v"
+
+[nsv]
+source = "github"
+github = "purpleclay/nsv"
+prefix = "v"
