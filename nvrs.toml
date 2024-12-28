@@ -177,3 +177,9 @@ prefix = "v"
 source = "github"
 github = "purpleclay/nsv"
 prefix = "v"
+
+[cloudip]
+source = "github"
+github = "jongwoo328/cloudip"
+prefix = "v"
+use_max_tag = true
