@@ -72,9 +72,9 @@
       "url": "https://github.com/hyprwm/hyprpolkitagent/releases/tag/v0.1.1"
     },
     "jellyfin-tui": {
-      "version": "1.0.3",
-      "gitref": "refs/tags/v1.0.3",
-      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.3"
+      "version": "1.0.4",
+      "gitref": "refs/tags/v1.0.4",
+      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.4"
     },
     "jqp": {
       "version": "0.7.0",
