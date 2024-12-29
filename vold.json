@@ -17,9 +17,9 @@
       "url": "https://github.com/tranzystorekk/arrive/releases/tag/v0.4.0"
     },
     "brlcad": {
-      "version": "7-40-2",
-      "gitref": "refs/tags/rel-7-40-2",
-      "url": "https://github.com/BRL-CAD/brlcad/releases/tag/rel-7-40-2"
+      "version": "7-36-0",
+      "gitref": "refs/tags/rel-7-36-0",
+      "url": "https://github.com/BRL-CAD/brlcad/releases/tag/rel-7-36-0"
     },
     "cloudip": {
       "version": "0.4.0",
