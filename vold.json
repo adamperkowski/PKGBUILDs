@@ -61,6 +61,11 @@
       "gitref": "refs/tags/v0.0.4",
       "url": "https://github.com/github/gh-skyline/releases/tag/v0.0.4"
     },
+    "goskyr": {
+      "version": "0.5.42",
+      "gitref": "refs/tags/v0.5.42",
+      "url": "https://github.com/jakopako/goskyr/releases/tag/v0.5.42"
+    },
     "hyprpolkitagent": {
       "version": "0.1.1",
       "gitref": "refs/tags/v0.1.1",

@@ -183,3 +183,8 @@ source = "github"
 github = "jongwoo328/cloudip"
 prefix = "v"
 use_max_tag = true
+
+[goskyr]
+source = "github"
+github = "jakopako/goskyr"
+prefix = "v"
