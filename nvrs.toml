@@ -194,3 +194,8 @@ source = "regex"
 url = "https://xorg.freedesktop.org/releases/individual/lib/?C=M;O=D"
 encoding = "utf8"
 regex = 'libXpm-([\d.]+).tar.gz'
+
+[brlcad]
+source = "github"
+github = "BRL-CAD/brlcad"
+prefix = "rel-"
