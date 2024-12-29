@@ -29,6 +29,6 @@ echo "$cmp" | while IFS= read -r line; do
         rm -rf src pkg ./*-*
         makepkg --printsrcinfo > .SRCINFO
         cd ..
-        . ./_update.sh "$pkg"
+        . ./_update.sh "$version"
     fi
 done
