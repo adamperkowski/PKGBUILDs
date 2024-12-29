@@ -188,3 +188,9 @@ use_max_tag = true
 source = "github"
 github = "jakopako/goskyr"
 prefix = "v"
+
+[libxpm]
+source = "regex"
+url = "https://xorg.freedesktop.org/releases/individual/lib/?C=M;O=D"
+encoding = "utf8"
+regex = 'libXpm-([\d.]+).tar.gz'

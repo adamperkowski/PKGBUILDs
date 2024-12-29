@@ -91,6 +91,11 @@
       "gitref": "refs/tags/v0.8",
       "url": "https://github.com/ikozyris/kri/releases/tag/v0.8"
     },
+    "libxpm": {
+      "version": "3.5.17",
+      "gitref": "",
+      "url": "https://xorg.freedesktop.org/releases/individual/lib/?C=M;O=D"
+    },
     "linutil": {
       "version": "2024.10.31",
       "gitref": "refs/tags/2024.10.31",
