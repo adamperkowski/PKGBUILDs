@@ -148,8 +148,9 @@ github = "rockorager/comlink"
 prefix = "v"
 
 [tek]
-source = "codeberg"
-codeberg = "unspeaker/tek"
+source = "gitea"
+host = "codeberg.org"
+gitea = "unspeaker/tek"
 
 [sisyphus]
 source = "github"
