@@ -206,3 +206,7 @@ source = "github"
 github = "number571/cvm"
 prefix = "v"
 use_max_tag = true
+
+[awtfdb]
+source = "github"
+github = "lun-4/awtfdb"
