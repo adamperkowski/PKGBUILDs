@@ -200,3 +200,9 @@ regex = 'libXpm-([\d.]+).tar.gz'
 source = "github"
 github = "BRL-CAD/brlcad"
 prefix = "rel-"
+
+[cvm]
+source = "github"
+github = "number571/cvm"
+prefix = "v"
+use_max_tag = true

@@ -36,6 +36,11 @@
       "gitref": "refs/tags/v0.1.1",
       "url": "https://github.com/rockorager/comlink/releases/tag/v0.1.1"
     },
+    "cvm": {
+      "version": "1.0.6",
+      "gitref": "refs/tags/v1.0.6",
+      "url": "https://github.com/number571/cvm/releases/tag/v1.0.6"
+    },
     "display3d": {
       "version": "0.1.17",
       "gitref": "refs/tags/v0.1.17",
