@@ -210,3 +210,8 @@ use_max_tag = true
 [awtfdb]
 source = "github"
 github = "lun-4/awtfdb"
+
+[auth]
+source = "github"
+github = "nnyyxxxx/auth"
+prefix = "v"
