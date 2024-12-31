@@ -215,3 +215,9 @@ github = "lun-4/awtfdb"
 source = "github"
 github = "nnyyxxxx/auth"
 prefix = "v"
+
+[jed]
+source = "regex"
+url = "https://jedsoft.org/jed/index.html"
+encoding = "utf8"
+regex = 'Version ([\d.-]+)'

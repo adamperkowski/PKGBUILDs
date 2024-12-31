@@ -91,6 +91,11 @@
       "gitref": "refs/tags/v0.1.1",
       "url": "https://github.com/hyprwm/hyprpolkitagent/releases/tag/v0.1.1"
     },
+    "jed": {
+      "version": "0.99-19",
+      "gitref": "",
+      "url": "https://jedsoft.org/jed/index.html"
+    },
     "jellyfin-tui": {
       "version": "1.0.4",
       "gitref": "refs/tags/v1.0.4",
