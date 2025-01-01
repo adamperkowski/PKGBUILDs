@@ -221,3 +221,8 @@ source = "regex"
 url = "https://jedsoft.org/jed/index.html"
 encoding = "utf8"
 regex = 'Version ([\d.-]+)'
+
+[arnis]
+source = "github"
+github = "louis-e/arnis"
+prefix = "v"

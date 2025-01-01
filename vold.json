@@ -11,6 +11,11 @@
       "gitref": "refs/tags/v1.0.12",
       "url": "https://github.com/Eraden/amdgpud/releases/tag/v1.0.12"
     },
+    "arnis": {
+      "version": "2.1.1",
+      "gitref": "refs/tags/v2.1.1",
+      "url": "https://github.com/louis-e/arnis/releases/tag/v2.1.1"
+    },
     "arv": {
       "version": "0.4.0",
       "gitref": "refs/tags/v0.4.0",
