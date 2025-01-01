@@ -226,3 +226,9 @@ regex = 'Version ([\d.-]+)'
 source = "github"
 github = "louis-e/arnis"
 prefix = "v"
+
+[fireworkrs]
+source = "github"
+github = "crisidev/fireworkrs"
+prefix = "v"
+use_max_tag = true
