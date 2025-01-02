@@ -22,9 +22,9 @@
       "url": "https://github.com/tranzystorekk/arrive/releases/tag/v0.4.0"
     },
     "auth": {
-      "version": "0.1.1",
-      "gitref": "refs/tags/v0.1.1",
-      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.1"
+      "version": "0.1.2",
+      "gitref": "refs/tags/v0.1.2",
+      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.2"
     },
     "awtfdb": {
       "version": "0.4.0",
