@@ -22,9 +22,9 @@
       "url": "https://github.com/tranzystorekk/arrive/releases/tag/v0.4.0"
     },
     "auth": {
-      "version": "0.1.1",
-      "gitref": "refs/tags/v0.1.1",
-      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.1"
+      "version": "0.1.2",
+      "gitref": "refs/tags/v0.1.2",
+      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.2"
     },
     "awtfdb": {
       "version": "0.4.0",
@@ -52,9 +52,9 @@
       "url": "https://github.com/rockorager/comlink/releases/tag/v0.1.1"
     },
     "cvm": {
-      "version": "1.0.6",
-      "gitref": "refs/tags/v1.0.6",
-      "url": "https://github.com/number571/cvm/releases/tag/v1.0.6"
+      "version": "1.0.9",
+      "gitref": "refs/tags/v1.0.9",
+      "url": "https://github.com/number571/cvm/releases/tag/v1.0.9"
     },
     "display3d": {
       "version": "0.1.17",
@@ -87,14 +87,14 @@
       "url": "https://github.com/hachiya-kurisu/gengou/releases/tag/v0.0.8"
     },
     "gh-skyline": {
-      "version": "0.0.4",
-      "gitref": "refs/tags/v0.0.4",
-      "url": "https://github.com/github/gh-skyline/releases/tag/v0.0.4"
+      "version": "0.1.0",
+      "gitref": "refs/tags/v0.1.0",
+      "url": "https://github.com/github/gh-skyline/releases/tag/v0.1.0"
     },
     "goskyr": {
-      "version": "0.5.42",
-      "gitref": "refs/tags/v0.5.42",
-      "url": "https://github.com/jakopako/goskyr/releases/tag/v0.5.42"
+      "version": "0.5.43",
+      "gitref": "refs/tags/v0.5.43",
+      "url": "https://github.com/jakopako/goskyr/releases/tag/v0.5.43"
     },
     "hyprpolkitagent": {
       "version": "0.1.1",
@@ -192,9 +192,9 @@
       "url": "https://github.com/c2i-junia/rustcraft/releases/tag/v0.8"
     },
     "sisyphus": {
-      "version": "0.3.5",
-      "gitref": "refs/tags/v0.3.5",
-      "url": "https://github.com/hachiya-kurisu/sisyphus/releases/tag/v0.3.5"
+      "version": "0.3.8",
+      "gitref": "refs/tags/v0.3.8",
+      "url": "https://github.com/hachiya-kurisu/sisyphus/releases/tag/v0.3.8"
     },
     "smriti": {
       "version": "1.0.0",
