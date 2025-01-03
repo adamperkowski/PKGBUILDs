@@ -66,6 +66,11 @@
       "gitref": "refs/tags/v2.10",
       "url": "https://github.com/TowarzyszFatCat/doccli/releases/tag/v2.10"
     },
+    "eddy": {
+      "version": "1.4.2",
+      "gitref": "refs/tags/v1.4.2",
+      "url": "https://github.com/70sh1/eddy/releases/tag/v1.4.2"
+    },
     "envfetch": {
       "version": "1.1.0",
       "gitref": "refs/tags/v1.1.0",

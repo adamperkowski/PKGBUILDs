@@ -232,3 +232,8 @@ source = "github"
 github = "crisidev/fireworkrs"
 prefix = "v"
 use_max_tag = true
+
+[eddy]
+source = "github"
+github = "70sh1/eddy"
+prefix = "v"
