@@ -37,9 +37,9 @@
       "url": "https://github.com/BRL-CAD/brlcad/releases/tag/rel-7-36-0"
     },
     "cloudip": {
-      "version": "0.4.0",
-      "gitref": "refs/tags/v0.4.0",
-      "url": "https://github.com/jongwoo328/cloudip/releases/tag/v0.4.0"
+      "version": "0.5.0",
+      "gitref": "refs/tags/v0.5.0",
+      "url": "https://github.com/jongwoo328/cloudip/releases/tag/v0.5.0"
     },
     "codesnap": {
       "version": "0.8.3",
