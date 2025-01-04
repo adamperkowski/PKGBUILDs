@@ -197,9 +197,9 @@
       "url": "https://github.com/c2i-junia/rustcraft/releases/tag/v0.8"
     },
     "sisyphus": {
-      "version": "0.3.8",
-      "gitref": "refs/tags/v0.3.8",
-      "url": "https://github.com/hachiya-kurisu/sisyphus/releases/tag/v0.3.8"
+      "version": "0.4.1",
+      "gitref": "refs/tags/v0.4.1",
+      "url": "https://github.com/hachiya-kurisu/sisyphus/releases/tag/v0.4.1"
     },
     "smriti": {
       "version": "1.0.0",
