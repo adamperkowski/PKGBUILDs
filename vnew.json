@@ -56,6 +56,11 @@
       "gitref": "refs/tags/v1.0.10",
       "url": "https://github.com/number571/cvm/releases/tag/v1.0.10"
     },
+    "dcmfx": {
+      "version": "0.5.0",
+      "gitref": "refs/tags/v0.5.0",
+      "url": "https://github.com/dcmfx/dcmfx/releases/tag/v0.5.0"
+    },
     "display3d": {
       "version": "0.1.17",
       "gitref": "refs/tags/v0.1.17",
@@ -127,9 +132,9 @@
       "url": "https://github.com/julelang/jule/releases/tag/jule0.1.1"
     },
     "katharsis": {
-      "version": "1.0.0-canary.24",
-      "gitref": "refs/tags/v1.0.0-canary.24",
-      "url": "https://github.com/kurosakishigure/katharsis/releases/tag/v1.0.0-canary.24"
+      "version": "1.0.0-canary.25",
+      "gitref": "refs/tags/v1.0.0-canary.25",
+      "url": "https://github.com/kurosakishigure/katharsis/releases/tag/v1.0.0-canary.25"
     },
     "kri": {
       "version": "0.8",
