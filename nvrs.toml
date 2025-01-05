@@ -237,3 +237,9 @@ use_max_tag = true
 source = "github"
 github = "70sh1/eddy"
 prefix = "v"
+
+[katharsis]
+source = "github"
+github = "kurosakishigure/katharsis"
+prefix = "v"
+use_max_tag = true
