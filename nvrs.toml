@@ -248,3 +248,9 @@ use_max_tag = true
 source = "github"
 github = "dcmfx/dcmfx"
 prefix = "v"
+
+[fetchfetch]
+source = "github"
+github = "spenserblack/fetchfetch"
+prefix = "v"
+use_max_tag = true

@@ -86,6 +86,11 @@
       "gitref": "refs/tags/v0.1.0",
       "url": "https://github.com/freref/fancy-cat/releases/tag/v0.1.0"
     },
+    "fetchfetch": {
+      "version": "1.0.0",
+      "gitref": "refs/tags/v1.0.0",
+      "url": "https://github.com/spenserblack/fetchfetch/releases/tag/v1.0.0"
+    },
     "fireworkrs": {
       "version": "0.2.1",
       "gitref": "refs/tags/v0.2.1",
