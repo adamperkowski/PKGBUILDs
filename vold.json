@@ -87,9 +87,9 @@
       "url": "https://github.com/freref/fancy-cat/releases/tag/v0.1.0"
     },
     "fetchfetch": {
-      "version": "1.0.0",
-      "gitref": "refs/tags/v1.0.0",
-      "url": "https://github.com/spenserblack/fetchfetch/releases/tag/v1.0.0"
+      "version": "1.0.1",
+      "gitref": "refs/tags/v1.0.1",
+      "url": "https://github.com/spenserblack/fetchfetch/releases/tag/v1.0.1"
     },
     "fireworkrs": {
       "version": "0.2.1",
@@ -137,9 +137,9 @@
       "url": "https://github.com/julelang/jule/releases/tag/jule0.1.1"
     },
     "katharsis": {
-      "version": "1.0.0-canary.25",
-      "gitref": "refs/tags/v1.0.0-canary.25",
-      "url": "https://github.com/kurosakishigure/katharsis/releases/tag/v1.0.0-canary.25"
+      "version": "1.0.0-canary.26",
+      "gitref": "refs/tags/v1.0.0-canary.26",
+      "url": "https://github.com/kurosakishigure/katharsis/releases/tag/v1.0.0-canary.26"
     },
     "kri": {
       "version": "0.8",
