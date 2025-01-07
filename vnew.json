@@ -57,9 +57,9 @@
       "url": "https://github.com/number571/cvm/releases/tag/v1.0.10"
     },
     "dcmfx": {
-      "version": "0.6.1",
-      "gitref": "refs/tags/v0.6.1",
-      "url": "https://github.com/dcmfx/dcmfx/releases/tag/v0.6.1"
+      "version": "0.6.0",
+      "gitref": "refs/tags/v0.6.0",
+      "url": "https://github.com/dcmfx/dcmfx/releases/tag/v0.6.0"
     },
     "display3d": {
       "version": "0.1.17",
@@ -142,9 +142,9 @@
       "url": "https://github.com/kurosakishigure/katharsis/releases/tag/v1.0.0-canary.26"
     },
     "kri": {
-      "version": "0.8",
-      "gitref": "refs/tags/v0.8",
-      "url": "https://github.com/ikozyris/kri/releases/tag/v0.8"
+      "version": "0.8.1",
+      "gitref": "refs/tags/v0.8.1",
+      "url": "https://github.com/ikozyris/kri/releases/tag/v0.8.1"
     },
     "libxpm": {
       "version": "3.5.17",
