@@ -132,9 +132,9 @@
       "url": "https://github.com/noahgorstein/jqp/releases/tag/v0.7.0"
     },
     "julec": {
-      "version": "0.1.1",
-      "gitref": "refs/tags/jule0.1.1",
-      "url": "https://github.com/julelang/jule/releases/tag/jule0.1.1"
+      "version": "0.1.2",
+      "gitref": "refs/tags/jule0.1.2",
+      "url": "https://github.com/julelang/jule/releases/tag/jule0.1.2"
     },
     "katharsis": {
       "version": "1.0.0-canary.26",
