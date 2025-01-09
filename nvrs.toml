@@ -244,11 +244,6 @@ github = "kurosakishigure/katharsis"
 prefix = "v"
 use_max_tag = true
 
-[dcmfx]
-source = "github"
-github = "dcmfx/dcmfx"
-prefix = "v"
-
 [fetchfetch]
 source = "github"
 github = "spenserblack/fetchfetch"

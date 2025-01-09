@@ -56,11 +56,6 @@
       "gitref": "refs/tags/v1.0.10",
       "url": "https://github.com/number571/cvm/releases/tag/v1.0.10"
     },
-    "dcmfx": {
-      "version": "0.6.0",
-      "gitref": "refs/tags/v0.6.0",
-      "url": "https://github.com/dcmfx/dcmfx/releases/tag/v0.6.0"
-    },
     "display3d": {
       "version": "0.1.17",
       "gitref": "refs/tags/v0.1.17",
