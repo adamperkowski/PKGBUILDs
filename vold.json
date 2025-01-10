@@ -112,9 +112,9 @@
       "url": "https://github.com/hyprwm/hyprland-qt-support/releases/tag/v0.1.0"
     },
     "hyprpolkitagent": {
-      "version": "0.1.1",
-      "gitref": "refs/tags/v0.1.1",
-      "url": "https://github.com/hyprwm/hyprpolkitagent/releases/tag/v0.1.1"
+      "version": "0.1.2",
+      "gitref": "refs/tags/v0.1.2",
+      "url": "https://github.com/hyprwm/hyprpolkitagent/releases/tag/v0.1.2"
     },
     "jed": {
       "version": "0.99-19",
