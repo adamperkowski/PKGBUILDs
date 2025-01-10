@@ -106,10 +106,15 @@
       "gitref": "refs/tags/v0.5.43",
       "url": "https://github.com/jakopako/goskyr/releases/tag/v0.5.43"
     },
+    "hyprland-qt-support": {
+      "version": "0.1.0",
+      "gitref": "refs/tags/v0.1.0",
+      "url": "https://github.com/hyprwm/hyprland-qt-support/releases/tag/v0.1.0"
+    },
     "hyprpolkitagent": {
-      "version": "0.1.1",
-      "gitref": "refs/tags/v0.1.1",
-      "url": "https://github.com/hyprwm/hyprpolkitagent/releases/tag/v0.1.1"
+      "version": "0.1.2",
+      "gitref": "refs/tags/v0.1.2",
+      "url": "https://github.com/hyprwm/hyprpolkitagent/releases/tag/v0.1.2"
     },
     "jed": {
       "version": "0.99-19",
@@ -117,9 +122,9 @@
       "url": "https://jedsoft.org/jed/index.html"
     },
     "jellyfin-tui": {
-      "version": "1.0.4",
-      "gitref": "refs/tags/v1.0.4",
-      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.4"
+      "version": "1.0.5",
+      "gitref": "refs/tags/v1.0.5",
+      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.5"
     },
     "jqp": {
       "version": "0.7.0",
@@ -147,9 +152,9 @@
       "url": "https://xorg.freedesktop.org/releases/individual/lib/?C=M;O=D"
     },
     "linutil": {
-      "version": "2024.10.31",
-      "gitref": "refs/tags/2024.10.31",
-      "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2024.10.31"
+      "version": "2025.01.10",
+      "gitref": "refs/tags/2025.01.10",
+      "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2025.01.10"
     },
     "lnx": {
       "version": "0.9.0-master",

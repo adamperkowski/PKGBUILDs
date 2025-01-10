@@ -249,3 +249,8 @@ source = "github"
 github = "spenserblack/fetchfetch"
 prefix = "v"
 use_max_tag = true
+
+[hyprland-qt-support]
+source = "github"
+github = "hyprwm/hyprland-qt-support"
+prefix = "v"
