@@ -254,3 +254,8 @@ use_max_tag = true
 source = "github"
 github = "hyprwm/hyprland-qt-support"
 prefix = "v"
+
+[quickosdl]
+source = "github"
+github = "lj3954/quickosdl"
+prefix = "v"
