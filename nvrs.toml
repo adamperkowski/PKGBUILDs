@@ -259,3 +259,8 @@ prefix = "v"
 source = "github"
 github = "lj3954/quickosdl"
 prefix = "v"
+
+[dofigen]
+source = "github"
+github = "lenra-io/dofigen"
+prefix = "v"
