@@ -259,3 +259,8 @@ prefix = "v"
 source = "github"
 github = "lenra-io/dofigen"
 prefix = "v"
+
+[jpu]
+source = "github"
+github = "adamperkowski/jpu"
+prefix = "v"

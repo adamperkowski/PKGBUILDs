@@ -126,6 +126,11 @@
       "gitref": "refs/tags/v1.0.5",
       "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.5"
     },
+    "jpu": {
+      "version": "0.0.1",
+      "gitref": "refs/tags/v0.0.1",
+      "url": "https://github.com/adamperkowski/jpu/releases/tag/v0.0.1"
+    },
     "jqp": {
       "version": "0.7.0",
       "gitref": "refs/tags/v0.7.0",
