@@ -264,3 +264,7 @@ prefix = "v"
 source = "github"
 github = "adamperkowski/jpu"
 prefix = "v"
+
+[psh]
+source = "github"
+github = "proh14/psh"
