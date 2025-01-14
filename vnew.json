@@ -102,9 +102,9 @@
       "url": "https://github.com/hachiya-kurisu/gengou/releases/tag/v0.0.8"
     },
     "gh-skyline": {
-      "version": "0.1.0",
-      "gitref": "refs/tags/v0.1.0",
-      "url": "https://github.com/github/gh-skyline/releases/tag/v0.1.0"
+      "version": "0.1.1",
+      "gitref": "refs/tags/v0.1.1",
+      "url": "https://github.com/github/gh-skyline/releases/tag/v0.1.1"
     },
     "goskyr": {
       "version": "0.5.43",
