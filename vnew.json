@@ -22,9 +22,9 @@
       "url": "https://github.com/tranzystorekk/arrive/releases/tag/v0.4.0"
     },
     "auth": {
-      "version": "0.1.6",
-      "gitref": "refs/tags/v0.1.6",
-      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.6"
+      "version": "0.1.7",
+      "gitref": "refs/tags/v0.1.7",
+      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.7"
     },
     "awtfdb": {
       "version": "0.4.0",
@@ -247,9 +247,9 @@
       "url": "https://github.com/Sberm/Transgender.rs/releases/tag/1.3.4"
     },
     "tuistash": {
-      "version": "0.6.0",
-      "gitref": "refs/tags/v0.6.0",
-      "url": "https://github.com/edmocosta/tuistash/releases/tag/v0.6.0"
+      "version": "0.7.0",
+      "gitref": "refs/tags/v0.7.0",
+      "url": "https://github.com/edmocosta/tuistash/releases/tag/v0.7.0"
     },
     "youtube-tui-nodefaults-bin": {
       "version": "0.8.1",
