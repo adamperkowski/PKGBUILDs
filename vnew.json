@@ -22,9 +22,9 @@
       "url": "https://github.com/tranzystorekk/arrive/releases/tag/v0.4.0"
     },
     "auth": {
-      "version": "0.1.7",
-      "gitref": "refs/tags/v0.1.7",
-      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.7"
+      "version": "0.1.8",
+      "gitref": "refs/tags/v0.1.8",
+      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.8"
     },
     "awtfdb": {
       "version": "0.4.0",
@@ -122,9 +122,9 @@
       "url": "https://jedsoft.org/jed/index.html"
     },
     "jellyfin-tui": {
-      "version": "1.0.5",
-      "gitref": "refs/tags/v1.0.5",
-      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.5"
+      "version": "1.0.6",
+      "gitref": "refs/tags/v1.0.6",
+      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.6"
     },
     "jpu": {
       "version": "0.0.1",
