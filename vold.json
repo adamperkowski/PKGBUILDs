@@ -31,11 +31,6 @@
       "gitref": "refs/tags/0.4.0",
       "url": "https://github.com/lun-4/awtfdb/releases/tag/0.4.0"
     },
-    "brlcad": {
-      "version": "7-36-0",
-      "gitref": "refs/tags/rel-7-36-0",
-      "url": "https://github.com/BRL-CAD/brlcad/releases/tag/rel-7-36-0"
-    },
     "cloudip": {
       "version": "0.6.0",
       "gitref": "refs/tags/v0.6.0",
