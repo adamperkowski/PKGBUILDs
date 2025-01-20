@@ -268,3 +268,8 @@ github = "proh14/psh"
 source = "github"
 github = "connet-dev/connet"
 prefix = "v"
+
+[laze]
+source = "github"
+github = "kaspar030/laze"
+prefix = "v"

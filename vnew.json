@@ -151,6 +151,11 @@
       "gitref": "refs/tags/v0.8.1",
       "url": "https://github.com/ikozyris/kri/releases/tag/v0.8.1"
     },
+    "laze": {
+      "version": "0.1.29",
+      "gitref": "refs/tags/0.1.29",
+      "url": "https://github.com/kaspar030/laze/releases/tag/0.1.29"
+    },
     "libxpm": {
       "version": "3.5.17",
       "gitref": "",
