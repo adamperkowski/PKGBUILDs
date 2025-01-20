@@ -46,6 +46,11 @@
       "gitref": "refs/tags/v0.1.1",
       "url": "https://github.com/rockorager/comlink/releases/tag/v0.1.1"
     },
+    "connet": {
+      "version": "0.4.1",
+      "gitref": "refs/tags/v0.4.1",
+      "url": "https://github.com/connet-dev/connet/releases/tag/v0.4.1"
+    },
     "cvm": {
       "version": "1.0.10",
       "gitref": "refs/tags/v1.0.10",
