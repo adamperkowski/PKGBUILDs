@@ -273,3 +273,7 @@ prefix = "v"
 source = "github"
 github = "kaspar030/laze"
 prefix = "v"
+
+[xan]
+source = "cratesio"
+cratesio = "xan"
