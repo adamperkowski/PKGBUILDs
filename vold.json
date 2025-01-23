@@ -142,9 +142,9 @@
       "url": "https://github.com/julelang/jule/releases/tag/jule0.1.2"
     },
     "katharsis": {
-      "version": "1.0.0-canary.27",
-      "gitref": "refs/tags/v1.0.0-canary.27",
-      "url": "https://github.com/kurosakishigure/katharsis/releases/tag/v1.0.0-canary.27"
+      "version": "1.0.0-canary.28",
+      "gitref": "refs/tags/v1.0.0-canary.28",
+      "url": "https://github.com/kurosakishigure/katharsis/releases/tag/v1.0.0-canary.28"
     },
     "kri": {
       "version": "0.8.1",
