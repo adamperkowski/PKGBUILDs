@@ -22,9 +22,9 @@
       "url": "https://github.com/tranzystorekk/arrive/releases/tag/v0.4.0"
     },
     "auth": {
-      "version": "0.1.8",
-      "gitref": "refs/tags/v0.1.8",
-      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.8"
+      "version": "0.1.9",
+      "gitref": "refs/tags/v0.1.9",
+      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.1.9"
     },
     "awtfdb": {
       "version": "0.4.0",
@@ -47,9 +47,9 @@
       "url": "https://github.com/rockorager/comlink/releases/tag/v0.1.1"
     },
     "connet": {
-      "version": "0.4.1",
-      "gitref": "refs/tags/v0.4.1",
-      "url": "https://github.com/connet-dev/connet/releases/tag/v0.4.1"
+      "version": "0.5.0",
+      "gitref": "refs/tags/v0.5.0",
+      "url": "https://github.com/connet-dev/connet/releases/tag/v0.5.0"
     },
     "cvm": {
       "version": "1.0.10",
@@ -57,9 +57,9 @@
       "url": "https://github.com/number571/cvm/releases/tag/v1.0.10"
     },
     "display3d": {
-      "version": "0.2.0",
-      "gitref": "refs/tags/v0.2.0",
-      "url": "https://github.com/renpenguin/display3d/releases/tag/v0.2.0"
+      "version": "0.2.1",
+      "gitref": "refs/tags/v0.2.1",
+      "url": "https://github.com/renpenguin/display3d/releases/tag/v0.2.1"
     },
     "doccli": {
       "version": "2.10",
@@ -97,9 +97,9 @@
       "url": "https://github.com/crisidev/fireworkrs/releases/tag/v0.2.1"
     },
     "gengou": {
-      "version": "0.0.8",
-      "gitref": "refs/tags/v0.0.8",
-      "url": "https://github.com/hachiya-kurisu/gengou/releases/tag/v0.0.8"
+      "version": "0.0.9",
+      "gitref": "refs/tags/v0.0.9",
+      "url": "https://github.com/hachiya-kurisu/gengou/releases/tag/v0.0.9"
     },
     "gh-skyline": {
       "version": "0.1.2",
