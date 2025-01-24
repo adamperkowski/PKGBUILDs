@@ -216,6 +216,11 @@
       "gitref": "refs/tags/v0.1.3",
       "url": "https://github.com/zahash/quarantine/releases/tag/v0.1.3"
     },
+    "quickenv": {
+      "version": "0.3.10",
+      "gitref": "refs/tags/0.3.10",
+      "url": "https://github.com/untitaker/quickenv/releases/tag/0.3.10"
+    },
     "quickosdl": {
       "version": "0.3.0",
       "gitref": "refs/tags/v0.3.0",
