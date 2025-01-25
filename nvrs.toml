@@ -281,3 +281,7 @@ cratesio = "xan"
 [quickenv]
 source = "github"
 github = "untitaker/quickenv"
+
+[feluda]
+source = "github"
+github = "anistark/feluda"

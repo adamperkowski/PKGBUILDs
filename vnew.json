@@ -86,6 +86,11 @@
       "gitref": "refs/tags/v0.1.1",
       "url": "https://github.com/freref/fancy-cat/releases/tag/v0.1.1"
     },
+    "feluda": {
+      "version": "1.2.2",
+      "gitref": "refs/tags/1.2.2",
+      "url": "https://github.com/anistark/feluda/releases/tag/1.2.2"
+    },
     "fetchfetch": {
       "version": "1.1.0",
       "gitref": "refs/tags/v1.1.0",
