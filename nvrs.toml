@@ -285,3 +285,8 @@ github = "untitaker/quickenv"
 [feluda]
 source = "github"
 github = "anistark/feluda"
+
+[astroterm]
+source = "github"
+github = "da-luce/astroterm"
+prefix = "v"
