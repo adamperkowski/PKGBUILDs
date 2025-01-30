@@ -132,9 +132,9 @@
       "url": "https://jedsoft.org/jed/index.html"
     },
     "jellyfin-tui": {
-      "version": "1.0.6",
-      "gitref": "refs/tags/v1.0.6",
-      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.6"
+      "version": "1.1.0",
+      "gitref": "refs/tags/v1.1.0",
+      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.1.0"
     },
     "jpu": {
       "version": "0.0.1",
