@@ -272,9 +272,9 @@
       "url": "https://github.com/edmocosta/tuistash/releases/tag/v0.7.0"
     },
     "xan": {
-      "version": "0.42.0",
+      "version": "0.43.0",
       "gitref": "",
-      "url": "https://crates.io/crates/xan/0.42.0"
+      "url": "https://crates.io/crates/xan/0.43.0"
     },
     "youtube-tui-nodefaults-bin": {
       "version": "0.8.1",
