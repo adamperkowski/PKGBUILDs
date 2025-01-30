@@ -82,9 +82,9 @@
       "url": "https://github.com/70sh1/eddy/releases/tag/v1.4.2"
     },
     "envfetch": {
-      "version": "1.2.1",
-      "gitref": "refs/tags/v1.2.1",
-      "url": "https://github.com/ankddev/envfetch/releases/tag/v1.2.1"
+      "version": "1.3.0",
+      "gitref": "refs/tags/v1.3.0",
+      "url": "https://github.com/ankddev/envfetch/releases/tag/v1.3.0"
     },
     "fancy-cat": {
       "version": "0.1.1",
@@ -92,9 +92,9 @@
       "url": "https://github.com/freref/fancy-cat/releases/tag/v0.1.1"
     },
     "feluda": {
-      "version": "1.2.2",
-      "gitref": "refs/tags/1.2.2",
-      "url": "https://github.com/anistark/feluda/releases/tag/1.2.2"
+      "version": "1.2.3",
+      "gitref": "refs/tags/1.2.3",
+      "url": "https://github.com/anistark/feluda/releases/tag/1.2.3"
     },
     "fetchfetch": {
       "version": "1.1.0",
@@ -112,9 +112,9 @@
       "url": "https://github.com/hachiya-kurisu/gengou/releases/tag/v0.0.9"
     },
     "gh-skyline": {
-      "version": "0.1.2",
-      "gitref": "refs/tags/v0.1.2",
-      "url": "https://github.com/github/gh-skyline/releases/tag/v0.1.2"
+      "version": "0.1.3",
+      "gitref": "refs/tags/v0.1.3",
+      "url": "https://github.com/github/gh-skyline/releases/tag/v0.1.3"
     },
     "goskyr": {
       "version": "0.5.43",
@@ -132,9 +132,9 @@
       "url": "https://jedsoft.org/jed/index.html"
     },
     "jellyfin-tui": {
-      "version": "1.0.6",
-      "gitref": "refs/tags/v1.0.6",
-      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.0.6"
+      "version": "1.1.0",
+      "gitref": "refs/tags/v1.1.0",
+      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.1.0"
     },
     "jpu": {
       "version": "0.0.1",
@@ -247,9 +247,9 @@
       "url": "https://github.com/c2i-junia/rustcraft/releases/tag/v0.8"
     },
     "sisyphus": {
-      "version": "0.4.1",
-      "gitref": "refs/tags/v0.4.1",
-      "url": "https://github.com/hachiya-kurisu/sisyphus/releases/tag/v0.4.1"
+      "version": "0.4.2",
+      "gitref": "refs/tags/v0.4.2",
+      "url": "https://github.com/hachiya-kurisu/sisyphus/releases/tag/v0.4.2"
     },
     "smriti": {
       "version": "1.0.0",
@@ -272,9 +272,9 @@
       "url": "https://github.com/edmocosta/tuistash/releases/tag/v0.7.0"
     },
     "xan": {
-      "version": "0.42.0",
+      "version": "0.43.0",
       "gitref": "",
-      "url": "https://crates.io/crates/xan/0.42.0"
+      "url": "https://crates.io/crates/xan/0.43.0"
     },
     "youtube-tui-nodefaults-bin": {
       "version": "0.8.1",
