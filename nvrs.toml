@@ -290,3 +290,8 @@ github = "anistark/feluda"
 source = "github"
 github = "da-luce/astroterm"
 prefix = "v"
+
+[tegratop]
+source = "github"
+github = "pythops/tegratop"
+prefix = "v"
