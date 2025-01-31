@@ -72,9 +72,9 @@
       "url": "https://github.com/TowarzyszFatCat/doccli/releases/tag/v2.10"
     },
     "dofigen": {
-      "version": "2.3.1",
-      "gitref": "refs/tags/v2.3.1",
-      "url": "https://github.com/lenra-io/dofigen/releases/tag/v2.3.1"
+      "version": "2.3.2",
+      "gitref": "refs/tags/v2.3.2",
+      "url": "https://github.com/lenra-io/dofigen/releases/tag/v2.3.2"
     },
     "eddy": {
       "version": "1.4.2",
