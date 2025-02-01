@@ -232,9 +232,9 @@
       "url": "https://github.com/untitaker/quickenv/releases/tag/0.4.1"
     },
     "quickosdl": {
-      "version": "0.3.1",
-      "gitref": "refs/tags/v0.3.1",
-      "url": "https://github.com/lj3954/quickosdl/releases/tag/v0.3.1"
+      "version": "0.3.2",
+      "gitref": "refs/tags/v0.3.2",
+      "url": "https://github.com/lj3954/quickosdl/releases/tag/v0.3.2"
     },
     "rawbit": {
       "version": "0.1.12",
