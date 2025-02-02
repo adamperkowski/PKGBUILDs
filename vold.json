@@ -42,9 +42,9 @@
       "url": "https://github.com/jongwoo328/cloudip/releases/tag/v0.6.0"
     },
     "codesnap": {
-      "version": "0.8.3",
-      "gitref": "refs/tags/v0.8.3",
-      "url": "https://github.com/mistricky/CodeSnap/releases/tag/v0.8.3"
+      "version": "0.10.1",
+      "gitref": "refs/tags/v0.10.1",
+      "url": "https://github.com/mistricky/CodeSnap/releases/tag/v0.10.1"
     },
     "comlink": {
       "version": "0.1.1",
