@@ -295,3 +295,8 @@ prefix = "v"
 source = "github"
 github = "pythops/tegratop"
 prefix = "v"
+
+[gengo]
+source = "github"
+github = "spenserblack/gengo"
+prefix = "v"
