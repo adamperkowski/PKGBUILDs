@@ -202,9 +202,9 @@
       "url": "https://github.com/dschep/ntfy/releases/tag/v2.7.0"
     },
     "nvrs": {
-      "version": "0.1.6",
-      "gitref": "refs/tags/v0.1.6",
-      "url": "https://github.com/adamperkowski/nvrs/releases/tag/v0.1.6"
+      "version": "0.1.7",
+      "gitref": "refs/tags/v0.1.7",
+      "url": "https://github.com/adamperkowski/nvrs/releases/tag/v0.1.7"
     },
     "omu": {
       "version": "0.1.6",
