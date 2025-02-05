@@ -27,9 +27,9 @@
       "url": "https://github.com/da-luce/astroterm/releases/tag/v1.0.7"
     },
     "auth": {
-      "version": "0.2.0",
-      "gitref": "refs/tags/v0.2.0",
-      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.2.0"
+      "version": "0.2.1",
+      "gitref": "refs/tags/v0.2.1",
+      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.2.1"
     },
     "awtfdb": {
       "version": "0.4.0",
