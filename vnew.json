@@ -177,9 +177,9 @@
       "url": "https://xorg.freedesktop.org/releases/individual/lib/?C=M;O=D"
     },
     "linutil": {
-      "version": "2025.01.10",
-      "gitref": "refs/tags/2025.01.10",
-      "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2025.01.10"
+      "version": "2025.02.13",
+      "gitref": "refs/tags/2025.02.13",
+      "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2025.02.13"
     },
     "lnx": {
       "version": "0.9.0-master",
@@ -207,9 +207,9 @@
       "url": "https://github.com/adamperkowski/nvrs/releases/tag/v0.1.7"
     },
     "omu": {
-      "version": "0.1.6",
-      "gitref": "refs/tags/v0.1.6",
-      "url": "https://github.com/utox39/oh-my-update/releases/tag/v0.1.6"
+      "version": "0.1.7",
+      "gitref": "refs/tags/v0.1.7",
+      "url": "https://github.com/utox39/oh-my-update/releases/tag/v0.1.7"
     },
     "permitter": {
       "version": "3.0.0",
