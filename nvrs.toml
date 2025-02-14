@@ -6,69 +6,18 @@ oldver = "vold.json"
 newver = "vnew.json"
 keyfile = "keyfile.toml"
 
-[linutil]
+[ad]
 source = "github"
-github = "christitustech/linutil"
-prefix = "v"
-
-[permitter]
-source = "github"
-github = "adamperkowski/permitter"
-prefix = "v"
-
-[smriti]
-source = "github"
-github = "aspasht/smriti"
-prefix = "v"
+github = "sminez/ad"
 
 [amdgpud]
 source = "github"
 github = "eraden/amdgpud"
 prefix = "v"
 
-[quarantine]
+[arnis]
 source = "github"
-github = "zahash/quarantine"
-prefix = "v"
-
-[youtube-tui-nodefaults-bin]
-source = "github"
-github = "Siriusmart/youtube-tui"
-prefix = "v"
-
-[nvrs]
-source = "github"
-github = "adamperkowski/nvrs"
-prefix = "v"
-
-[rawbit]
-source = "github"
-github = "cartercanedy/rawbit"
-prefix = "v"
-
-[protondb-cli]
-source = "github"
-github = "hypeedev/protondb-cli"
-prefix = "v"
-
-[transgender]
-source = "github"
-github = "Sberm/Transgender.rs"
-
-[ntfy]
-source = "github"
-github = "dschep/ntfy"
-prefix = "v"
-use_max_tag = true
-
-[jqp]
-source = "github"
-github = "noahgorstein/jqp"
-prefix = "v"
-
-[codesnap]
-source = "github"
-github = "mistricky/CodeSnap"
+github = "louis-e/arnis"
 prefix = "v"
 
 [arv]
@@ -76,9 +25,51 @@ source = "github"
 github = "tranzystorekk/arrive"
 prefix = "v"
 
-[hyprpolkitagent]
+[astroterm]
 source = "github"
-github = "hyprwm/hyprpolkitagent"
+github = "da-luce/astroterm"
+prefix = "v"
+
+[auth]
+source = "github"
+github = "nnyyxxxx/auth"
+prefix = "v"
+
+[awtfdb]
+source = "github"
+github = "lun-4/awtfdb"
+
+[cloudip]
+source = "github"
+github = "jongwoo328/cloudip"
+use_max_tag = true
+prefix = "v"
+
+[codesnap]
+source = "github"
+github = "mistricky/CodeSnap"
+prefix = "v"
+
+[comlink]
+source = "github"
+github = "rockorager/comlink"
+prefix = "v"
+
+[connet]
+source = "github"
+github = "connet-dev/connet"
+prefix = "v"
+
+[cvm]
+source = "github"
+github = "number571/cvm"
+use_max_tag = true
+prefix = "v"
+
+[display3d]
+source = "github"
+github = "renpenguin/display3d"
+use_max_tag = true
 prefix = "v"
 
 [doccli]
@@ -86,173 +77,77 @@ source = "github"
 github = "TowarzyszFatCat/doccli"
 prefix = "v"
 
-[rustcraft]
+[dofigen]
 source = "github"
-github = "c2i-junia/rustcraft"
+github = "lenra-io/dofigen"
 prefix = "v"
-
-[display3d]
-source = "github"
-github = "renpenguin/display3d"
-prefix = "v"
-use_max_tag = true
-
-[gh-skyline]
-source = "github"
-github = "github/gh-skyline"
-prefix = "v"
-
-[jellyfin-tui]
-source = "github"
-github = "dhonus/jellyfin-tui"
-prefix = "v"
-
-[julec]
-source = "github"
-github = "julelang/jule"
-prefix = "jule"
-
-[envfetch]
-source = "github"
-github = "ankddev/envfetch"
-prefix = "v"
-
-[ad]
-source = "github"
-github = "sminez/ad"
-
-[tuistash]
-source = "github"
-github = "edmocosta/tuistash"
-prefix = "v"
-
-[omu]
-source = "github"
-github = "utox39/oh-my-update"
-prefix = "v"
-
-[mult]
-source = "github"
-github = "dhth/mult"
-prefix = "v"
-
-[fancy-cat]
-source = "github"
-github = "freref/fancy-cat"
-prefix = "v"
-use_max_tag = true
-
-[comlink]
-source = "github"
-github = "rockorager/comlink"
-prefix = "v"
-
-[tek]
-source = "gitea"
-host = "codeberg.org"
-gitea = "unspeaker/tek"
-
-[sisyphus]
-source = "github"
-github = "hachiya-kurisu/sisyphus"
-prefix = "v"
-use_max_tag = true
-
-[gengou]
-source = "github"
-github = "hachiya-kurisu/gengou"
-prefix = "v"
-use_max_tag = true
-
-[kri]
-source = "github"
-github = "ikozyris/kri"
-prefix = "v"
-
-[lnx]
-source = "github"
-github = "lnx-search/lnx"
-prefix = "v"
-
-[nsv]
-source = "github"
-github = "purpleclay/nsv"
-prefix = "v"
-
-[cloudip]
-source = "github"
-github = "jongwoo328/cloudip"
-prefix = "v"
-use_max_tag = true
-
-[goskyr]
-source = "github"
-github = "jakopako/goskyr"
-prefix = "v"
-
-[libxpm]
-source = "regex"
-url = "https://xorg.freedesktop.org/releases/individual/lib/?C=M;O=D"
-encoding = "utf8"
-regex = 'libXpm-([\d.]+).tar.gz'
-
-[cvm]
-source = "github"
-github = "number571/cvm"
-prefix = "v"
-use_max_tag = true
-
-[awtfdb]
-source = "github"
-github = "lun-4/awtfdb"
-
-[auth]
-source = "github"
-github = "nnyyxxxx/auth"
-prefix = "v"
-
-[jed]
-source = "regex"
-url = "https://jedsoft.org/jed/index.html"
-encoding = "utf8"
-regex = 'Version ([\d.-]+)'
-
-[arnis]
-source = "github"
-github = "louis-e/arnis"
-prefix = "v"
-
-[fireworkrs]
-source = "github"
-github = "crisidev/fireworkrs"
-prefix = "v"
-use_max_tag = true
 
 [eddy]
 source = "github"
 github = "70sh1/eddy"
 prefix = "v"
 
-[katharsis]
+[envfetch]
 source = "github"
-github = "kurosakishigure/katharsis"
+github = "ankddev/envfetch"
 prefix = "v"
+
+[fancy-cat]
+source = "github"
+github = "freref/fancy-cat"
 use_max_tag = true
+prefix = "v"
+
+[feluda]
+source = "github"
+github = "anistark/feluda"
 
 [fetchfetch]
 source = "github"
 github = "spenserblack/fetchfetch"
-prefix = "v"
 use_max_tag = true
-
-[quickosdl]
-source = "github"
-github = "lj3954/quickosdl"
 prefix = "v"
 
-[dofigen]
+[fireworkrs]
 source = "github"
-github = "lenra-io/dofigen"
+github = "crisidev/fireworkrs"
+use_max_tag = true
+prefix = "v"
+
+[gengo]
+source = "github"
+github = "spenserblack/gengo"
+prefix = "v"
+
+[gengou]
+source = "github"
+github = "hachiya-kurisu/gengou"
+use_max_tag = true
+prefix = "v"
+
+[gh-skyline]
+source = "github"
+github = "github/gh-skyline"
+prefix = "v"
+
+[goskyr]
+source = "github"
+github = "jakopako/goskyr"
+prefix = "v"
+
+[hyprpolkitagent]
+source = "github"
+github = "hyprwm/hyprpolkitagent"
+prefix = "v"
+
+[jed]
+source = "regex"
+url = "https://jedsoft.org/jed/index.html"
+regex = 'Version ([\d.-]+)'
+
+[jellyfin-tui]
+source = "github"
+github = "dhonus/jellyfin-tui"
 prefix = "v"
 
 [jpu]
@@ -260,13 +155,25 @@ source = "github"
 github = "adamperkowski/jpu"
 prefix = "v"
 
-[psh]
+[jqp]
 source = "github"
-github = "proh14/psh"
+github = "noahgorstein/jqp"
+prefix = "v"
 
-[connet]
+[julec]
 source = "github"
-github = "connet-dev/connet"
+github = "julelang/jule"
+prefix = "jule"
+
+[katharsis]
+source = "github"
+github = "kurosakishigure/katharsis"
+use_max_tag = true
+prefix = "v"
+
+[kri]
+source = "github"
+github = "ikozyris/kri"
 prefix = "v"
 
 [laze]
@@ -274,21 +181,94 @@ source = "github"
 github = "kaspar030/laze"
 prefix = "v"
 
-[xan]
-source = "cratesio"
-cratesio = "xan"
+[libxpm]
+source = "regex"
+url = "https://xorg.freedesktop.org/releases/individual/lib/?C=M;O=D"
+regex = 'libXpm-([\d.]+).tar.gz'
+
+[linutil]
+source = "github"
+github = "christitustech/linutil"
+prefix = "v"
+
+[lnx]
+source = "github"
+github = "lnx-search/lnx"
+prefix = "v"
+
+[mult]
+source = "github"
+github = "dhth/mult"
+prefix = "v"
+
+[nsv]
+source = "github"
+github = "purpleclay/nsv"
+prefix = "v"
+
+[ntfy]
+source = "github"
+github = "dschep/ntfy"
+use_max_tag = true
+prefix = "v"
+
+[nvrs]
+source = "github"
+github = "adamperkowski/nvrs"
+prefix = "v"
+
+[omu]
+source = "github"
+github = "utox39/oh-my-update"
+prefix = "v"
+
+[permitter]
+source = "github"
+github = "adamperkowski/permitter"
+prefix = "v"
+
+[protondb-cli]
+source = "github"
+github = "hypeedev/protondb-cli"
+prefix = "v"
+
+[psh]
+source = "github"
+github = "proh14/psh"
+
+[quarantine]
+source = "github"
+github = "zahash/quarantine"
+prefix = "v"
 
 [quickenv]
 source = "github"
 github = "untitaker/quickenv"
 
-[feluda]
+[quickosdl]
 source = "github"
-github = "anistark/feluda"
+github = "lj3954/quickosdl"
+prefix = "v"
 
-[astroterm]
+[rawbit]
 source = "github"
-github = "da-luce/astroterm"
+github = "cartercanedy/rawbit"
+prefix = "v"
+
+[rustcraft]
+source = "github"
+github = "c2i-junia/rustcraft"
+prefix = "v"
+
+[sisyphus]
+source = "github"
+github = "hachiya-kurisu/sisyphus"
+use_max_tag = true
+prefix = "v"
+
+[smriti]
+source = "github"
+github = "aspasht/smriti"
 prefix = "v"
 
 [tegratop]
@@ -296,7 +276,21 @@ source = "github"
 github = "pythops/tegratop"
 prefix = "v"
 
-[gengo]
+[tek]
+source = "gitea"
+host = "codeberg.org"
+gitea = "unspeaker/tek"
+
+[transgender]
 source = "github"
-github = "spenserblack/gengo"
+github = "Sberm/Transgender.rs"
+
+[tuistash]
+source = "github"
+github = "edmocosta/tuistash"
+prefix = "v"
+
+[youtube-tui-nodefaults-bin]
+source = "github"
+github = "Siriusmart/youtube-tui"
 prefix = "v"
