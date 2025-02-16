@@ -167,7 +167,7 @@ prefix = "jule"
 
 [katharsis]
 source = "github"
-github = "kurosakishigure/katharsis"
+github = "arghena/katharsis"
 use_max_tag = true
 prefix = "v"
 
