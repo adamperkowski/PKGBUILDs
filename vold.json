@@ -167,9 +167,9 @@
       "url": "https://github.com/ikozyris/kri/releases/tag/v0.8.1"
     },
     "laze": {
-      "version": "0.1.30",
-      "gitref": "refs/tags/0.1.30",
-      "url": "https://github.com/kaspar030/laze/releases/tag/0.1.30"
+      "version": "0.1.31",
+      "gitref": "refs/tags/0.1.31",
+      "url": "https://github.com/kaspar030/laze/releases/tag/0.1.31"
     },
     "libxpm": {
       "version": "3.5.17",
@@ -207,9 +207,9 @@
       "url": "https://github.com/adamperkowski/nvrs/releases/tag/v0.1.7"
     },
     "omu": {
-      "version": "0.1.6",
-      "gitref": "refs/tags/v0.1.6",
-      "url": "https://github.com/utox39/oh-my-update/releases/tag/v0.1.6"
+      "version": "0.1.7",
+      "gitref": "refs/tags/v0.1.7",
+      "url": "https://github.com/utox39/oh-my-update/releases/tag/v0.1.7"
     },
     "permitter": {
       "version": "3.0.0",
@@ -217,9 +217,9 @@
       "url": "https://github.com/adamperkowski/permitter/releases/tag/v3.0.0"
     },
     "protondb-cli": {
-      "version": "1.1.0",
-      "gitref": "refs/tags/v1.1.0",
-      "url": "https://github.com/hypeedev/protondb-cli/releases/tag/v1.1.0"
+      "version": "1.1.1",
+      "gitref": "refs/tags/v1.1.1",
+      "url": "https://github.com/hypeedev/protondb-cli/releases/tag/v1.1.1"
     },
     "psh": {
       "version": "1.0",
