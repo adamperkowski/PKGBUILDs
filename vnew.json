@@ -2,9 +2,9 @@
   "version": 2,
   "data": {
     "ad": {
-      "version": "0.2.0",
-      "gitref": "refs/tags/0.2.0",
-      "url": "https://github.com/sminez/ad/releases/tag/0.2.0"
+      "version": "0.3.0",
+      "gitref": "refs/tags/0.3.0",
+      "url": "https://github.com/sminez/ad/releases/tag/0.3.0"
     },
     "amdgpud": {
       "version": "1.0.12",
@@ -167,9 +167,9 @@
       "url": "https://github.com/ikozyris/kri/releases/tag/v0.8.1"
     },
     "laze": {
-      "version": "0.1.31",
-      "gitref": "refs/tags/0.1.31",
-      "url": "https://github.com/kaspar030/laze/releases/tag/0.1.31"
+      "version": "0.1.32",
+      "gitref": "refs/tags/0.1.32",
+      "url": "https://github.com/kaspar030/laze/releases/tag/0.1.32"
     },
     "libxpm": {
       "version": "3.5.17",
