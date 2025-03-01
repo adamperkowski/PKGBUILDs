@@ -2,14 +2,14 @@
 # https://github.com/adamperkowski/PKGBUILDs
 
 pkgname=laze
-pkgver=0.1.29
+pkgver=0.1.31
 pkgrel=1
 pkgdesc='Fast declarative meta build system for C/C++/Rust projects'
 arch=('x86_64')
 url="https://github.com/kaspar030/$pkgname"
 license=('Apache-2.0')
 source=("$pkgname-$pkgver.tar.gz::$url/archive/$pkgver.tar.gz")
-sha256sums=('e886d406904e238f8e157f46ed57a830414c62ef52345d3d85cf42a38654eca8')
+sha256sums=('f5b3dbf220976dfec17b1ed6fb956e0a46a9c4ec7db63be03b269c5030fa55cc')
 makedepends=('cargo')
 depends=('glibc' 'gcc-libs' 'mimalloc')
 
