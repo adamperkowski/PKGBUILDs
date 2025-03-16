@@ -86,11 +86,6 @@
       "gitref": "refs/tags/v1.4.0",
       "url": "https://github.com/ankddev/envfetch/releases/tag/v1.4.0"
     },
-    "fancy-cat": {
-      "version": "0.4.0",
-      "gitref": "refs/tags/v0.4.0",
-      "url": "https://github.com/freref/fancy-cat/releases/tag/v0.4.0"
-    },
     "feluda": {
       "version": "1.5.2",
       "gitref": "refs/tags/1.5.2",

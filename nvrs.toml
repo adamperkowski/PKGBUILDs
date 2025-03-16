@@ -92,12 +92,6 @@ source = "github"
 github = "ankddev/envfetch"
 prefix = "v"
 
-[fancy-cat]
-source = "github"
-github = "freref/fancy-cat"
-use_max_tag = true
-prefix = "v"
-
 [feluda]
 source = "github"
 github = "anistark/feluda"
