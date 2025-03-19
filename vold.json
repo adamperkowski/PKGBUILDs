@@ -96,6 +96,11 @@
       "gitref": "refs/tags/v1.1.0",
       "url": "https://github.com/spenserblack/fetchfetch/releases/tag/v1.1.0"
     },
+    "fht-compositor": {
+      "version": "25.03.1",
+      "gitref": "refs/tags/25.03.1",
+      "url": "https://github.com/nferhat/fht-compositor/releases/tag/25.03.1"
+    },
     "fireworkrs": {
       "version": "0.2.1",
       "gitref": "refs/tags/v0.2.1",

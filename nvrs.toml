@@ -293,3 +293,7 @@ prefix = "v"
 source = "github"
 github = "uncenter/purr"
 prefix = "v"
+
+[fht-compositor]
+source = "github"
+github = "nferhat/fht-compositor"
