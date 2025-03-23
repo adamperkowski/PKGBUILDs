@@ -3,14 +3,14 @@
 
 _pkgname=oh-my-update
 pkgname=omu
-pkgver=0.1.5
+pkgver=0.1.7
 pkgrel=1
 pkgdesc="$_pkgname: oh-my-zsh plugin & theme updater"
 arch=('x86_64')
 url="https://github.com/utox39/$_pkgname"
 license=('MIT')
 source=("$_pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz")
-sha256sums=('aebee6180d28e0ceee8acce45f2a3199715878037f263efef6533dabe398dd47')
+sha256sums=('765e256b5025532f20d10bb5828c97a8db150e2516b2e8d837c02b627eb30a96')
 makedepends=('go')
 depends=('glibc')
 
