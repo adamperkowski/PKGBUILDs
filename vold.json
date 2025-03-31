@@ -167,9 +167,9 @@
       "url": "https://github.com/ikozyris/kri/releases/tag/v0.8.1"
     },
     "laze": {
-      "version": "0.1.33",
-      "gitref": "refs/tags/0.1.33",
-      "url": "https://github.com/kaspar030/laze/releases/tag/0.1.33"
+      "version": "0.1.35",
+      "gitref": "refs/tags/0.1.35",
+      "url": "https://github.com/kaspar030/laze/releases/tag/0.1.35"
     },
     "libxpm": {
       "version": "3.5.17",
