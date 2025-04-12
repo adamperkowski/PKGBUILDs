@@ -297,3 +297,8 @@ prefix = "v"
 [fht-compositor]
 source = "github"
 github = "nferhat/fht-compositor"
+
+[kitget]
+source = "github"
+github = "adamperkowski/kitget"
+prefix = "v"

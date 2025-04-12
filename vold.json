@@ -161,6 +161,11 @@
       "gitref": "refs/tags/v1.0.0-canary.29",
       "url": "https://github.com/arghena/katharsis/releases/tag/v1.0.0-canary.29"
     },
+    "kitget": {
+      "version": "0.0.1",
+      "gitref": "refs/tags/v0.0.1",
+      "url": "https://github.com/adamperkowski/kitget/releases/tag/v0.0.1"
+    },
     "kri": {
       "version": "0.8.1",
       "gitref": "refs/tags/v0.8.1",

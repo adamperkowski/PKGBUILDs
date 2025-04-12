@@ -27,9 +27,9 @@
       "url": "https://github.com/da-luce/astroterm/releases/tag/v1.0.7"
     },
     "auth": {
-      "version": "0.2.3",
-      "gitref": "refs/tags/v0.2.3",
-      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.2.3"
+      "version": "0.2.4",
+      "gitref": "refs/tags/v0.2.4",
+      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.2.4"
     },
     "awtfdb": {
       "version": "0.4.0",
@@ -42,9 +42,9 @@
       "url": "https://github.com/jongwoo328/cloudip/releases/tag/v0.6.0"
     },
     "codesnap": {
-      "version": "0.10.5",
-      "gitref": "refs/tags/v0.10.5",
-      "url": "https://github.com/mistricky/CodeSnap/releases/tag/v0.10.5"
+      "version": "0.10.8",
+      "gitref": "refs/tags/v0.10.8",
+      "url": "https://github.com/codesnap-rs/codesnap/releases/tag/v0.10.8"
     },
     "comlink": {
       "version": "0.1.1",
@@ -52,9 +52,9 @@
       "url": "https://github.com/rockorager/comlink/releases/tag/v0.1.1"
     },
     "connet": {
-      "version": "0.5.0",
-      "gitref": "refs/tags/v0.5.0",
-      "url": "https://github.com/connet-dev/connet/releases/tag/v0.5.0"
+      "version": "0.6.3",
+      "gitref": "refs/tags/v0.6.3",
+      "url": "https://github.com/connet-dev/connet/releases/tag/v0.6.3"
     },
     "cvm": {
       "version": "1.0.10",
@@ -82,14 +82,14 @@
       "url": "https://github.com/70sh1/eddy/releases/tag/v1.4.2"
     },
     "envfetch": {
-      "version": "2.0.0",
-      "gitref": "refs/tags/v2.0.0",
-      "url": "https://github.com/ankddev/envfetch/releases/tag/v2.0.0"
+      "version": "2.1.2",
+      "gitref": "refs/tags/v2.1.2",
+      "url": "https://github.com/ankddev/envfetch/releases/tag/v2.1.2"
     },
     "feluda": {
-      "version": "1.5.2",
-      "gitref": "refs/tags/1.5.2",
-      "url": "https://github.com/anistark/feluda/releases/tag/1.5.2"
+      "version": "1.5.3",
+      "gitref": "refs/tags/1.5.3",
+      "url": "https://github.com/anistark/feluda/releases/tag/1.5.3"
     },
     "fetchfetch": {
       "version": "1.1.0",
@@ -117,14 +117,14 @@
       "url": "https://github.com/hachiya-kurisu/gengou/releases/tag/v0.0.9"
     },
     "gh-skyline": {
-      "version": "0.1.4",
-      "gitref": "refs/tags/v0.1.4",
-      "url": "https://github.com/github/gh-skyline/releases/tag/v0.1.4"
+      "version": "0.1.5",
+      "gitref": "refs/tags/v0.1.5",
+      "url": "https://github.com/github/gh-skyline/releases/tag/v0.1.5"
     },
     "goskyr": {
-      "version": "0.5.44",
-      "gitref": "refs/tags/v0.5.44",
-      "url": "https://github.com/jakopako/goskyr/releases/tag/v0.5.44"
+      "version": "0.5.46",
+      "gitref": "refs/tags/v0.5.46",
+      "url": "https://github.com/jakopako/goskyr/releases/tag/v0.5.46"
     },
     "hyprpolkitagent": {
       "version": "0.1.2",
@@ -160,6 +160,11 @@
       "version": "1.0.0-canary.29",
       "gitref": "refs/tags/v1.0.0-canary.29",
       "url": "https://github.com/arghena/katharsis/releases/tag/v1.0.0-canary.29"
+    },
+    "kitget": {
+      "version": "0.0.1",
+      "gitref": "refs/tags/v0.0.1",
+      "url": "https://github.com/adamperkowski/kitget/releases/tag/v0.0.1"
     },
     "kri": {
       "version": "0.8.1",
@@ -247,9 +252,9 @@
       "url": "https://github.com/lj3954/quickosdl/releases/tag/v0.3.2"
     },
     "rawbit": {
-      "version": "0.1.13",
-      "gitref": "refs/tags/v0.1.13",
-      "url": "https://github.com/cartercanedy/rawbit/releases/tag/v0.1.13"
+      "version": "0.1.14",
+      "gitref": "refs/tags/v0.1.14",
+      "url": "https://github.com/cartercanedy/rawbit/releases/tag/v0.1.14"
     },
     "rustcraft": {
       "version": "0.8",
@@ -277,14 +282,14 @@
       "url": "https://codeberg.org/unspeaker/tek/releases/tag/0.2.0-rc.7"
     },
     "transgender": {
-      "version": "1.4.0",
-      "gitref": "refs/tags/1.4.0",
-      "url": "https://github.com/Sberm/Transgender.rs/releases/tag/1.4.0"
+      "version": "1.4.1",
+      "gitref": "refs/tags/1.4.1",
+      "url": "https://github.com/Sberm/Transgender.rs/releases/tag/1.4.1"
     },
     "tuistash": {
-      "version": "0.7.0",
-      "gitref": "refs/tags/v0.7.0",
-      "url": "https://github.com/edmocosta/tuistash/releases/tag/v0.7.0"
+      "version": "0.7.1",
+      "gitref": "refs/tags/v0.7.1",
+      "url": "https://github.com/edmocosta/tuistash/releases/tag/v0.7.1"
     },
     "youtube-tui-nodefaults-bin": {
       "version": "0.8.1",
