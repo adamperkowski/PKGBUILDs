@@ -252,9 +252,9 @@
       "url": "https://github.com/lj3954/quickosdl/releases/tag/v0.3.2"
     },
     "rawbit": {
-      "version": "0.1.13",
-      "gitref": "refs/tags/v0.1.13",
-      "url": "https://github.com/cartercanedy/rawbit/releases/tag/v0.1.13"
+      "version": "0.1.14",
+      "gitref": "refs/tags/v0.1.14",
+      "url": "https://github.com/cartercanedy/rawbit/releases/tag/v0.1.14"
     },
     "rustcraft": {
       "version": "0.8",
