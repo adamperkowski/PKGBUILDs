@@ -282,9 +282,9 @@
       "url": "https://codeberg.org/unspeaker/tek/releases/tag/0.2.0-rc.7"
     },
     "transgender": {
-      "version": "1.4.0",
-      "gitref": "refs/tags/1.4.0",
-      "url": "https://github.com/Sberm/Transgender.rs/releases/tag/1.4.0"
+      "version": "1.4.1",
+      "gitref": "refs/tags/1.4.1",
+      "url": "https://github.com/Sberm/Transgender.rs/releases/tag/1.4.1"
     },
     "tuistash": {
       "version": "0.7.0",
