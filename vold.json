@@ -82,9 +82,9 @@
       "url": "https://github.com/70sh1/eddy/releases/tag/v1.4.2"
     },
     "envfetch": {
-      "version": "2.0.0",
-      "gitref": "refs/tags/v2.0.0",
-      "url": "https://github.com/ankddev/envfetch/releases/tag/v2.0.0"
+      "version": "2.1.2",
+      "gitref": "refs/tags/v2.1.2",
+      "url": "https://github.com/ankddev/envfetch/releases/tag/v2.1.2"
     },
     "feluda": {
       "version": "1.5.2",
