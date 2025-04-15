@@ -26,10 +26,10 @@
       "gitref": "refs/tags/v1.0.7",
       "url": "https://github.com/da-luce/astroterm/releases/tag/v1.0.7"
     },
-    "auth": {
-      "version": "0.2.4",
-      "gitref": "refs/tags/v0.2.4",
-      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.2.4"
+    "auth-cli": {
+      "version": "0.2.0",
+      "gitref": "refs/tags/v0.2.0",
+      "url": "https://github.com/nnyyxxxx/auth/releases/tag/v0.2.0"
     },
     "awtfdb": {
       "version": "0.4.0",
@@ -162,14 +162,14 @@
       "url": "https://github.com/arghena/katharsis/releases/tag/v1.0.0-canary.29"
     },
     "kitget": {
-      "version": "0.0.1",
-      "gitref": "refs/tags/v0.0.1",
-      "url": "https://github.com/adamperkowski/kitget/releases/tag/v0.0.1"
+      "version": "0.0.2",
+      "gitref": "refs/tags/v0.0.2",
+      "url": "https://github.com/adamperkowski/kitget/releases/tag/v0.0.2"
     },
     "kri": {
-      "version": "0.8.1",
-      "gitref": "refs/tags/v0.8.1",
-      "url": "https://github.com/ikozyris/kri/releases/tag/v0.8.1"
+      "version": "0.8.2",
+      "gitref": "refs/tags/v0.8.2",
+      "url": "https://github.com/ikozyris/kri/releases/tag/v0.8.2"
     },
     "laze": {
       "version": "0.1.35",
@@ -282,9 +282,9 @@
       "url": "https://codeberg.org/unspeaker/tek/releases/tag/0.2.0-rc.7"
     },
     "transgender": {
-      "version": "1.4.1",
-      "gitref": "refs/tags/1.4.1",
-      "url": "https://github.com/Sberm/Transgender.rs/releases/tag/1.4.1"
+      "version": "1.4.2",
+      "gitref": "refs/tags/1.4.2",
+      "url": "https://github.com/Sberm/Transgender.rs/releases/tag/1.4.2"
     },
     "tuistash": {
       "version": "0.7.1",

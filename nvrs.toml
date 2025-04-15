@@ -30,7 +30,7 @@ source = "github"
 github = "da-luce/astroterm"
 prefix = "v"
 
-[auth]
+[auth-cli]
 source = "github"
 github = "nnyyxxxx/auth"
 prefix = "v"
@@ -301,4 +301,9 @@ github = "nferhat/fht-compositor"
 [kitget]
 source = "github"
 github = "adamperkowski/kitget"
+prefix = "v"
+
+[auth-cli]
+source = "github"
+github = ""
 prefix = "v"
