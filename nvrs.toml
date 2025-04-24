@@ -302,8 +302,3 @@ github = "nferhat/fht-compositor"
 source = "github"
 github = "adamperkowski/kitget"
 prefix = "v"
-
-[auth-cli]
-source = "github"
-github = ""
-prefix = "v"
