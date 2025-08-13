@@ -157,9 +157,9 @@
       "url": "https://github.com/julelang/jule/releases/tag/jule0.1.6"
     },
     "katharsis": {
-      "version": "1.0.0-canary.29",
-      "gitref": "refs/tags/v1.0.0-canary.29",
-      "url": "https://github.com/arghena/katharsis/releases/tag/v1.0.0-canary.29"
+      "version": "1.0.0-canary.30",
+      "gitref": "refs/tags/v1.0.0-canary.30",
+      "url": "https://github.com/arghena/katharsis/releases/tag/v1.0.0-canary.30"
     },
     "kitget": {
       "version": "0.0.2",
