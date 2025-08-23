@@ -182,9 +182,9 @@
       "url": "https://xorg.freedesktop.org/releases/individual/lib/?C=M;O=D"
     },
     "linutil": {
-      "version": "2025.02.13",
-      "gitref": "refs/tags/2025.02.13",
-      "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2025.02.13"
+      "version": "2025.08.19",
+      "gitref": "refs/tags/2025.08.19",
+      "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2025.08.19"
     },
     "lnx": {
       "version": "0.9.0-master",

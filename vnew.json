@@ -117,9 +117,9 @@
       "url": "https://github.com/hachiya-kurisu/gengou/releases/tag/v0.1.0"
     },
     "gh-skyline": {
-      "version": "0.1.6",
-      "gitref": "refs/tags/v0.1.6",
-      "url": "https://github.com/github/gh-skyline/releases/tag/v0.1.6"
+      "version": "0.1.7",
+      "gitref": "refs/tags/v0.1.7",
+      "url": "https://github.com/github/gh-skyline/releases/tag/v0.1.7"
     },
     "goskyr": {
       "version": "0.5.52",
@@ -127,9 +127,9 @@
       "url": "https://github.com/jakopako/goskyr/releases/tag/v0.5.52"
     },
     "hyprpolkitagent": {
-      "version": "0.1.2",
-      "gitref": "refs/tags/v0.1.2",
-      "url": "https://github.com/hyprwm/hyprpolkitagent/releases/tag/v0.1.2"
+      "version": "0.1.3",
+      "gitref": "refs/tags/v0.1.3",
+      "url": "https://github.com/hyprwm/hyprpolkitagent/releases/tag/v0.1.3"
     },
     "jed": {
       "version": "0.99-19",
@@ -137,9 +137,9 @@
       "url": "https://jedsoft.org/jed/index.html"
     },
     "jellyfin-tui": {
-      "version": "1.2.3",
-      "gitref": "refs/tags/v1.2.3",
-      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.2.3"
+      "version": "1.2.4",
+      "gitref": "refs/tags/v1.2.4",
+      "url": "https://github.com/dhonus/jellyfin-tui/releases/tag/v1.2.4"
     },
     "jpu": {
       "version": "0.0.1",
@@ -157,9 +157,9 @@
       "url": "https://github.com/julelang/jule/releases/tag/jule0.1.6"
     },
     "katharsis": {
-      "version": "1.0.0-canary.29",
-      "gitref": "refs/tags/v1.0.0-canary.29",
-      "url": "https://github.com/arghena/katharsis/releases/tag/v1.0.0-canary.29"
+      "version": "1.0.0-canary.30",
+      "gitref": "refs/tags/v1.0.0-canary.30",
+      "url": "https://github.com/arghena/katharsis/releases/tag/v1.0.0-canary.30"
     },
     "kitget": {
       "version": "0.0.2",
@@ -182,9 +182,9 @@
       "url": "https://xorg.freedesktop.org/releases/individual/lib/?C=M;O=D"
     },
     "linutil": {
-      "version": "2025.07.18",
-      "gitref": "refs/tags/2025.07.18",
-      "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2025.07.18"
+      "version": "2025.08.19",
+      "gitref": "refs/tags/2025.08.19",
+      "url": "https://github.com/ChrisTitusTech/linutil/releases/tag/2025.08.19"
     },
     "lnx": {
       "version": "0.9.0-master",
@@ -192,14 +192,14 @@
       "url": "https://github.com/lnx-search/lnx/releases/tag/0.9.0-master"
     },
     "mult": {
-      "version": "0.1.3",
-      "gitref": "refs/tags/v0.1.3",
-      "url": "https://github.com/dhth/mult/releases/tag/v0.1.3"
+      "version": "0.3.0",
+      "gitref": "refs/tags/v0.3.0",
+      "url": "https://github.com/dhth/mult/releases/tag/v0.3.0"
     },
     "nsv": {
-      "version": "0.12.1",
-      "gitref": "refs/tags/v0.12.1",
-      "url": "https://github.com/purpleclay/nsv/releases/tag/v0.12.1"
+      "version": "0.12.2",
+      "gitref": "refs/tags/v0.12.2",
+      "url": "https://github.com/purpleclay/nsv/releases/tag/v0.12.2"
     },
     "ntfy": {
       "version": "2.7.0",
@@ -292,9 +292,9 @@
       "url": "https://github.com/edmocosta/tuistash/releases/tag/v0.7.1"
     },
     "youtube-tui-nodefaults-bin": {
-      "version": "0.8.3",
-      "gitref": "refs/tags/v0.8.3",
-      "url": "https://github.com/Siriusmart/youtube-tui/releases/tag/v0.8.3"
+      "version": "0.9.1",
+      "gitref": "refs/tags/v0.9.1",
+      "url": "https://github.com/Siriusmart/youtube-tui/releases/tag/v0.9.1"
     }
   }
 }
